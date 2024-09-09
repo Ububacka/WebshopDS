@@ -17,7 +17,7 @@ def hello(Klassenname):
 
 @app.route('/Tic/')
 def Tic():
-    return render_template('')
+    return render_template("webshop.html")
 
 
 
