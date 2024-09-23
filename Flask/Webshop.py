@@ -19,7 +19,7 @@ def sky():
 @app.route('/search')  # 'GET' is the default method, you don't need to mention it explicitly
 def search():
 
-
+    # query = request.args['search']
     query = request.GET.get('search')  # try this instead
 
     req_search = Storage.query.filter_by(req_no=query)
@@ -50,12 +50,10 @@ def Tic():
 '''
 
 
-
-
-
 @app.route("/skybase/Top-Items")
 def Top_Items():
     return render_template("Kategorie.html")
+
 
 @app.route("/skybase/Charts")
 def Charts():
@@ -68,10 +66,6 @@ def Warenkorb():
 @app.route("/skybase/Impressum")
 def Impressum():
     return render_template("Impressum.html")
-
-
-
-
 
 
 if __name__ == '__main__':
