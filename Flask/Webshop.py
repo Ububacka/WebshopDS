@@ -50,14 +50,26 @@ def Tic():
 '''
 
 
+
+
+
 @app.route("/skybase/Top-Items")
 def Top_Items():
-    return render_template("Top-Items.html")
-
+    return render_template("Kategorie.html")
 
 @app.route("/skybase/Charts")
 def Charts():
-    return render_template("Charts.html")
+    return render_template("Bestseller.html")
+
+@app.route("/skybase/Warenkorb")
+def Warenkorb():
+    return render_template("Warenkorb.html")
+
+@app.route("/skybase/Impressum")
+def Impressum():
+    return render_template("Impressum.html")
+
+
 
 
 
