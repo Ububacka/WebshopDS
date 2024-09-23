@@ -14,18 +14,18 @@ def Tic():
 def sky():
     return render_template("webshop.html")
 
-@app.route("/skybase", methods=['POST', 'GET'])
-def check():
-    error=None
-    oot = None
-    if request.method == "POST":
-        # Wenn der Bootstrap Button geklickt wurde
-        if request.form['Top'] == 'Suche':
-            oot = request.form['Suche']
-            print(oot)
-    return render_template("webshop.html", oot=oot, error=error)  # GET-Anfragen laden einfach die Startseite
 
-@app.route('/Tic', methods=['POST', 'GET'])
+
+@app.route('/search')  # 'GET' is the default method, you don't need to mention it explicitly
+def search():
+
+    # query = request.args['search']
+    query = request.GET.get('search')  # try this instead
+
+    req_search = Storage.query.filter_by(req_no=query)
+    return render_template('search.html', req_search=req_search)
+'''
+@app.route('/', methods=['POST', 'GET'])
 def Tic():
     error = None
     Tic = ["", "", "",
@@ -47,7 +47,7 @@ def Tic():
 
     # Wenn GET-Anfrage, leeres Tic-Feld initialisieren
     return render_template("Tic.html", Tic=Tic, error=error)
-
+'''
 
 
 @app.route("/skybase/Top-Items")
