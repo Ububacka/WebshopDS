@@ -21,8 +21,8 @@ def check():
     if request.method == "POST":
         # Wenn der Bootstrap Button geklickt wurde
         if request.form['Top'] == 'Suche':
-            return redirect(url_for('Top_Items'))  # Weiterleitung zur 'bootstrap' Route
-            print(request.form['Top'])
+            oot = request.form['Suche']
+            print(oot)
     return render_template("webshop.html", oot=oot, error=error)  # GET-Anfragen laden einfach die Startseite
 
 @app.route('/Tic', methods=['POST', 'GET'])
