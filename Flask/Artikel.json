@@ -1,0 +1,236 @@
+{
+  "schwerter": [
+    {
+      "id": 1,
+      "name": "Langschwert",
+      "material": "Stahl",
+      "schaden": 50,
+      "preis": 100,
+      "beschreibung": "Ein langes Schwert aus Stahl, ideal für den Nahkampf.",
+      "herkunft": "Mittelalterliches Europa"
+    },
+    {
+      "id": 2,
+      "name": "Breitschwert",
+      "material": "Eisen",
+      "schaden": 40,
+      "preis": 80,
+      "beschreibung": "Ein robustes Breitschwert aus Eisen, das guten Schaden verursacht.",
+      "herkunft": "Römisches Reich"
+    }
+  ],
+  "äxte": [
+    {
+      "id": 1,
+      "name": "Kriegsaxt",
+      "material": "Stahl",
+      "schaden": 60,
+      "preis": 120,
+      "beschreibung": "Eine schwere Kriegsaxt, perfekt für vernichtende Angriffe.",
+      "herkunft": "Wikingerzeit"
+    },
+    {
+      "id": 2,
+      "name": "Holzaxt",
+      "material": "Holz und Eisen",
+      "schaden": 30,
+      "preis": 50,
+      "beschreibung": "Eine einfache Axt zum Holzschlagen, aber auch im Kampf nützlich.",
+      "herkunft": "Nordeuropa"
+    }
+  ],
+  "hämmer": [
+    {
+      "id": 1,
+      "name": "Kriegshammer",
+      "material": "Eisen",
+      "schaden": 70,
+      "preis": 150,
+      "beschreibung": "Ein mächtiger Hammer für schwere Schläge.",
+      "herkunft": "Mittelalterliches Europa"
+    },
+    {
+      "id": 2,
+      "name": "Schmiedehammer",
+      "material": "Eisen",
+      "schaden": 20,
+      "preis": 40,
+      "beschreibung": "Ein Hammer, der in der Schmiede benutzt wird, aber auch als Waffe dienen kann.",
+      "herkunft": "Mittelalterliche Schmieden"
+    }
+  ],
+  "speere": [
+    {
+      "id": 1,
+      "name": "Jagdspeer",
+      "material": "Holz und Stahl",
+      "schaden": 40,
+      "preis": 90,
+      "beschreibung": "Ein leichter Speer, der für die Jagd verwendet wird.",
+      "herkunft": "Antikes Griechenland"
+    },
+    {
+      "id": 2,
+      "name": "Kriegsspeer",
+      "material": "Eisen",
+      "schaden": 50,
+      "preis": 110,
+      "beschreibung": "Ein Speer, der im Kampf verwendet wird, mit scharfem Eisenkopf.",
+      "herkunft": "Antikes Rom"
+    }
+  ],
+  "schilde": [
+    {
+      "id": 1,
+      "name": "Rundschild",
+      "material": "Holz",
+      "verteidigung": 30,
+      "preis": 70,
+      "beschreibung": "Ein einfacher Rundschild aus Holz, leicht und effektiv.",
+      "herkunft": "Wikingerzeit"
+    },
+    {
+      "id": 2,
+      "name": "Turmschild",
+      "material": "Stahl",
+      "verteidigung": 50,
+      "preis": 150,
+      "beschreibung": "Ein großer Turmschild aus Stahl, der viel Schutz bietet.",
+      "herkunft": "Mittelalterliches Europa"
+    }
+  ],
+  "bögen": [
+    {
+      "id": 1,
+      "name": "Langbogen",
+      "material": "Holz",
+      "schaden": 40,
+      "preis": 80,
+      "beschreibung": "Ein langer Bogen mit hoher Reichweite.",
+      "herkunft": "England"
+    },
+    {
+      "id": 2,
+      "name": "Kurzbogen",
+      "material": "Holz",
+      "schaden": 30,
+      "preis": 60,
+      "beschreibung": "Ein kurzer Bogen, leicht und schnell einsatzbereit.",
+      "herkunft": "Zentralasien"
+    }
+  ],
+  "armbrüste": [
+    {
+      "id": 1,
+      "name": "Leichte Armbrust",
+      "material": "Holz und Stahl",
+      "schaden": 50,
+      "preis": 100,
+      "beschreibung": "Eine leichte Armbrust für schnelle Angriffe.",
+      "herkunft": "Mittelalterliches Europa"
+    },
+    {
+      "id": 2,
+      "name": "Schwere Armbrust",
+      "material": "Stahl",
+      "schaden": 70,
+      "preis": 150,
+      "beschreibung": "Eine schwere Armbrust, die großen Schaden verursacht.",
+      "herkunft": "Renaissance"
+    }
+  ],
+  "rüstung": [
+    {
+      "id": 1,
+      "name": "Kettenrüstung",
+      "material": "Stahl",
+      "verteidigung": 60,
+      "preis": 200,
+      "beschreibung": "Eine robuste Kettenrüstung, die guten Schutz bietet.",
+      "herkunft": "Mittelalterliches Europa"
+    },
+    {
+      "id": 2,
+      "name": "Lederrüstung",
+      "material": "Leder",
+      "verteidigung": 30,
+      "preis": 100,
+      "beschreibung": "Eine leichte Lederrüstung, die Beweglichkeit ermöglicht.",
+      "herkunft": "Antikes Rom"
+    }
+  ],
+  "pferde": [
+    {
+      "id": 1,
+      "name": "Schlachtross",
+      "geschwindigkeit": 60,
+      "preis": 300,
+      "beschreibung": "Ein starkes und schnelles Pferd, das im Kampf eingesetzt wird.",
+      "herkunft": "Mittelalterliches Europa"
+    },
+    {
+      "id": 2,
+      "name": "Reitpferd",
+      "geschwindigkeit": 50,
+      "preis": 200,
+      "beschreibung": "Ein zuverlässiges Reitpferd für lange Strecken.",
+      "herkunft": "Antikes Rom"
+    }
+  ],
+  "tränke": [
+    {
+      "id": 1,
+      "name": "Heiltrank",
+      "effekt": "Heilt 50 HP",
+      "preis": 50,
+      "beschreibung": "Ein Trank, der Wunden heilt und Gesundheit wiederherstellt.",
+      "herkunft": "Alchemistenlabor"
+    },
+    {
+      "id": 2,
+      "name": "Manatrank",
+      "effekt": "Regeneriert 30 Mana",
+      "preis": 40,
+      "beschreibung": "Ein Trank, der magische Energie wiederherstellt.",
+      "herkunft": "Magierturm"
+    }
+  ],
+  "stäbe": [
+    {
+      "id": 1,
+      "name": "Feuerstab",
+      "material": "Holz und Magierkristall",
+      "schaden": 60,
+      "preis": 150,
+      "beschreibung": "Ein mächtiger Stab, der Feuerbälle abschießen kann.",
+      "herkunft": "Feuermagiergilde"
+    },
+    {
+      "id": 2,
+      "name": "Eisstab",
+      "material": "Holz und Eisstein",
+      "schaden": 50,
+      "preis": 140,
+      "beschreibung": "Ein Stab, der eisige Angriffe ermöglicht.",
+      "herkunft": "Nordländer"
+    }
+  ],
+  "stands": [
+    {
+      "id": 1,
+      "name": "Waffenständer",
+      "kapazität": 10,
+      "preis": 80,
+      "beschreibung": "Ein Ständer, der Platz für bis zu 10 Waffen bietet.",
+      "herkunft": "Schmiedewerkstatt"
+    },
+    {
+      "id": 2,
+      "name": "Rüstungsständer",
+      "kapazität": 5,
+      "preis": 100,
+      "beschreibung": "Ein Ständer, auf dem bis zu 5 Rüstungen ausgestellt werden können.",
+      "herkunft": "Waffenkammer"
+    }
+  ]
+}
