@@ -3,46 +3,74 @@
 <head>
     <meta charset="UTF-8">
     <title>Webshop</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
-
-
 <nav class="navbar navbar-inverse" >
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="/">Skybase</a>
+      <a class="navbar-brand" href="#">Skybase</a>
     </div>
     <ul class="nav navbar-nav">
-        <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="/skybase/Kategorie">Kategorien<span class="caret"></span></a>
-        <ul class="dropdown-menu">
-            <li><a href="#">Schwerter</a></li>
-            <li><a href="#">Äxte</a></li>
-            <li><a href="#">Hämmer</a></li>
-            <li><a href="#">Speere</a></li>
-            <li><a href="#">Schilde</a></li>
-            <li><a href="#">Bögen</a></li>
-            <li><a href="#">Armbrüste</a></li>
-            <li><a href="#">Rüstung</a></li>
-            <li><a href="#">Pferde</a></li>
-            <li><a href="#">Tränke</a></li>
-            <li><a href="#">Stäbe</a></li>
-            <li><a href="#">Stands</a></li>
-            </ul>
-        <li><a href="/skybase/Partner">Partner</a></li>
-        <li><a href="/skybase/Bestseller">Bestseller</a></li>
-        <li><a href="/skybase/Impressum">Impressum</a></li>
+      <li class="active"><a href="#">Home</a></li>
+        <li><a href="/skybase/Top-Items">Top Items</a></button></li>
+        <li><a href="/skybase/Charts">Charts</a></li>
     </ul>
     <ul class="nav navbar-nav navbar-right">
-        <li><form class="navbar-form navbar-left" action="{{ url_for('search') }}""><div class="input-group"><input type="text" class="form-control" placeholder="Für suche hier eingeben"><div class="input-group-btn"><button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button></div></div></form></li>
-      <li><a href="/skybase">Warenkorb</a></li>
+        <li><form class="navbar-form navbar-left" action="{{ url_for('search') }}""><div class="input-group"><input type="text" class="form-control" placeholder="Search"><div class="input-group-btn"><button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button></div></div></form></li>
+      <li><a href="#"><span class="glyphicon glyphicon-user"></span> Einloggen</a></li>
+      <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Anmelden</a></li>
     </ul>
   </div>
 </nav>
+
+
+ <form action="">
+        <div class="btn-group">
+        <!-- Bootstrap Button -->
+                <button type="submit" name="Boot" value="Bootstrap" id="utton" class="btn btn-primary">Bootstrap</button>
+        </div>
+        </form>
+
+
+
+
+
+
+
+
+</div>
+<div class="alert alert-success">
+  <strong>Success!</strong> Indicates a successful or positive action.
+</div>
+
+<div class="alert alert-info">
+  <strong>Info!</strong> Indicates a neutral informative change or action.
+</div>
+
+<div class="alert alert-warning">
+  <strong>Warning!</strong> Indicates a warning that might need attention.
+</div>
+
+<div class="alert alert-danger alert-dismissible fade in">
+    <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+    <strong>Danger!</strong> This alert box could indicate a dangerous or potentially negative action.
+</div>
+
+
+
+<div class="container">
+
+  <button type="button" class="btn btn-success">Success</button>
+
+</div>
+
+
+
 
 </body>
 </html>
