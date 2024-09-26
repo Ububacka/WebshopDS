@@ -1,7 +1,37 @@
 
 body {
-    background-color: white;
+    background-image: url("https://wallpapercave.com/wp/wp2173985.jpg");
 
+    .text{color: white}
+    .bg{background-color: black}
+
+    .lb {
+      width: 400px;
+      height: 200px;
+      background-color: black;
+      color: white;
+      padding: 10px;
+      border: 1px solid darkred;
+      word-wrap: break-word;
+      overflow-y: auto;
+      text-align: left;
+      float: left;
+      margin-left: 0px;
+    }
+
+    .rb {
+      width: 400px;
+      height: 200px;
+      background-color: black;
+      color: white;
+      padding: 10px;
+      border: 1px solid darkblue;
+      word-wrap: break-word;
+      overflow-y: auto;
+      text-align: left;
+      float: right;
+      margin-right: 10px;
+    }
 
 
 
