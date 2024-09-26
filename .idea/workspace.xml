@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0df714ef-9d1f-4048-ab9e-7a1bb9307b08" name="Changes" comment="HA">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/Artikel.json" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/Artikel.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Flask/Webshop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/Webshop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Flask/templates/Webshop.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/templates/Webshop.html" afterDir="false" />
     </list>
@@ -112,7 +113,8 @@
       <workItem from="1726479266673" duration="84000" />
       <workItem from="1726738817354" duration="3102000" />
       <workItem from="1727085083182" duration="1045000" />
-      <workItem from="1727089168576" duration="7827000" />
+      <workItem from="1727089168576" duration="11288000" />
+      <workItem from="1727341933561" duration="7406000" />
     </task>
     <task id="LOCAL-00001" summary="HA">
       <option name="closed" value="true" />
@@ -154,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727096509889</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HA">
+      <option name="closed" value="true" />
+      <created>1727098266870</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727098266870</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +175,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="HA" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/WebshopDS$Webshop.coverage" NAME="Webshop Coverage Results" MODIFIED="1727097406601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask" />
+    <SUITE FILE_PATH="coverage/WebshopDS$Webshop.coverage" NAME="Webshop Coverage Results" MODIFIED="1727348363265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask" />
   </component>
 </project>

@@ -1,4 +1,5 @@
-from flask import Flask, render_template, request, redirect, url_for
+from flask import Flask, render_template, request, redirect, url_for, jsonify
+import json
 
 app = Flask(__name__)
 
@@ -10,9 +11,13 @@ app = Flask(__name__)
 def Tic():
     return redirect(url_for('sky'))
 
+
 @app.route('/skybase')
 def sky():
-    return render_template("webshop.html")
+    with open('Artikel.json', 'r', encoding='utf-8') as f:
+
+        data = json.load(f)
+    return render_template('Webshop.html', items=data)
 
 
 

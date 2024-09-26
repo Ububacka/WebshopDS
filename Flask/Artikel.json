@@ -1,236 +1,98 @@
 {
-  "schwerter": [
-    {
-      "id": 1,
-      "name": "Langschwert",
-      "material": "Stahl",
-      "schaden": 50,
-      "preis": 100,
-      "beschreibung": "Ein langes Schwert aus Stahl, ideal für den Nahkampf.",
-      "herkunft": "Mittelalterliches Europa"
-    },
-    {
-      "id": 2,
-      "name": "Breitschwert",
-      "material": "Eisen",
-      "schaden": 40,
-      "preis": 80,
-      "beschreibung": "Ein robustes Breitschwert aus Eisen, das guten Schaden verursacht.",
-      "herkunft": "Römisches Reich"
-    }
-  ],
-  "äxte": [
-    {
-      "id": 1,
-      "name": "Kriegsaxt",
-      "material": "Stahl",
-      "schaden": 60,
-      "preis": 120,
-      "beschreibung": "Eine schwere Kriegsaxt, perfekt für vernichtende Angriffe.",
-      "herkunft": "Wikingerzeit"
-    },
-    {
-      "id": 2,
-      "name": "Holzaxt",
-      "material": "Holz und Eisen",
-      "schaden": 30,
-      "preis": 50,
-      "beschreibung": "Eine einfache Axt zum Holzschlagen, aber auch im Kampf nützlich.",
-      "herkunft": "Nordeuropa"
-    }
-  ],
-  "hämmer": [
-    {
-      "id": 1,
-      "name": "Kriegshammer",
-      "material": "Eisen",
-      "schaden": 70,
-      "preis": 150,
-      "beschreibung": "Ein mächtiger Hammer für schwere Schläge.",
-      "herkunft": "Mittelalterliches Europa"
-    },
-    {
-      "id": 2,
-      "name": "Schmiedehammer",
-      "material": "Eisen",
-      "schaden": 20,
-      "preis": 40,
-      "beschreibung": "Ein Hammer, der in der Schmiede benutzt wird, aber auch als Waffe dienen kann.",
-      "herkunft": "Mittelalterliche Schmieden"
-    }
-  ],
-  "speere": [
-    {
-      "id": 1,
-      "name": "Jagdspeer",
-      "material": "Holz und Stahl",
-      "schaden": 40,
-      "preis": 90,
-      "beschreibung": "Ein leichter Speer, der für die Jagd verwendet wird.",
-      "herkunft": "Antikes Griechenland"
-    },
-    {
-      "id": 2,
-      "name": "Kriegsspeer",
-      "material": "Eisen",
-      "schaden": 50,
-      "preis": 110,
-      "beschreibung": "Ein Speer, der im Kampf verwendet wird, mit scharfem Eisenkopf.",
-      "herkunft": "Antikes Rom"
-    }
-  ],
-  "schilde": [
-    {
-      "id": 1,
-      "name": "Rundschild",
-      "material": "Holz",
-      "verteidigung": 30,
-      "preis": 70,
-      "beschreibung": "Ein einfacher Rundschild aus Holz, leicht und effektiv.",
-      "herkunft": "Wikingerzeit"
-    },
-    {
-      "id": 2,
-      "name": "Turmschild",
-      "material": "Stahl",
-      "verteidigung": 50,
-      "preis": 150,
-      "beschreibung": "Ein großer Turmschild aus Stahl, der viel Schutz bietet.",
-      "herkunft": "Mittelalterliches Europa"
-    }
-  ],
-  "bögen": [
-    {
-      "id": 1,
-      "name": "Langbogen",
-      "material": "Holz",
-      "schaden": 40,
-      "preis": 80,
-      "beschreibung": "Ein langer Bogen mit hoher Reichweite.",
-      "herkunft": "England"
-    },
-    {
-      "id": 2,
-      "name": "Kurzbogen",
-      "material": "Holz",
-      "schaden": 30,
-      "preis": 60,
-      "beschreibung": "Ein kurzer Bogen, leicht und schnell einsatzbereit.",
-      "herkunft": "Zentralasien"
-    }
-  ],
-  "armbrüste": [
-    {
-      "id": 1,
-      "name": "Leichte Armbrust",
-      "material": "Holz und Stahl",
-      "schaden": 50,
-      "preis": 100,
-      "beschreibung": "Eine leichte Armbrust für schnelle Angriffe.",
-      "herkunft": "Mittelalterliches Europa"
-    },
-    {
-      "id": 2,
-      "name": "Schwere Armbrust",
-      "material": "Stahl",
-      "schaden": 70,
-      "preis": 150,
-      "beschreibung": "Eine schwere Armbrust, die großen Schaden verursacht.",
-      "herkunft": "Renaissance"
-    }
-  ],
-  "rüstung": [
-    {
-      "id": 1,
-      "name": "Kettenrüstung",
-      "material": "Stahl",
-      "verteidigung": 60,
-      "preis": 200,
-      "beschreibung": "Eine robuste Kettenrüstung, die guten Schutz bietet.",
-      "herkunft": "Mittelalterliches Europa"
-    },
-    {
-      "id": 2,
-      "name": "Lederrüstung",
-      "material": "Leder",
-      "verteidigung": 30,
-      "preis": 100,
-      "beschreibung": "Eine leichte Lederrüstung, die Beweglichkeit ermöglicht.",
-      "herkunft": "Antikes Rom"
-    }
-  ],
-  "pferde": [
-    {
-      "id": 1,
-      "name": "Schlachtross",
-      "geschwindigkeit": 60,
-      "preis": 300,
-      "beschreibung": "Ein starkes und schnelles Pferd, das im Kampf eingesetzt wird.",
-      "herkunft": "Mittelalterliches Europa"
-    },
-    {
-      "id": 2,
-      "name": "Reitpferd",
-      "geschwindigkeit": 50,
-      "preis": 200,
-      "beschreibung": "Ein zuverlässiges Reitpferd für lange Strecken.",
-      "herkunft": "Antikes Rom"
-    }
-  ],
-  "tränke": [
-    {
-      "id": 1,
-      "name": "Heiltrank",
-      "effekt": "Heilt 50 HP",
-      "preis": 50,
-      "beschreibung": "Ein Trank, der Wunden heilt und Gesundheit wiederherstellt.",
-      "herkunft": "Alchemistenlabor"
-    },
-    {
-      "id": 2,
-      "name": "Manatrank",
-      "effekt": "Regeneriert 30 Mana",
-      "preis": 40,
-      "beschreibung": "Ein Trank, der magische Energie wiederherstellt.",
-      "herkunft": "Magierturm"
-    }
-  ],
-  "stäbe": [
-    {
-      "id": 1,
-      "name": "Feuerstab",
-      "material": "Holz und Magierkristall",
-      "schaden": 60,
-      "preis": 150,
-      "beschreibung": "Ein mächtiger Stab, der Feuerbälle abschießen kann.",
-      "herkunft": "Feuermagiergilde"
-    },
-    {
-      "id": 2,
-      "name": "Eisstab",
-      "material": "Holz und Eisstein",
-      "schaden": 50,
-      "preis": 140,
-      "beschreibung": "Ein Stab, der eisige Angriffe ermöglicht.",
-      "herkunft": "Nordländer"
-    }
-  ],
-  "stands": [
-    {
-      "id": 1,
-      "name": "Waffenständer",
-      "kapazität": 10,
-      "preis": 80,
-      "beschreibung": "Ein Ständer, der Platz für bis zu 10 Waffen bietet.",
-      "herkunft": "Schmiedewerkstatt"
-    },
-    {
-      "id": 2,
-      "name": "Rüstungsständer",
-      "kapazität": 5,
-      "preis": 100,
-      "beschreibung": "Ein Ständer, auf dem bis zu 5 Rüstungen ausgestellt werden können.",
-      "herkunft": "Waffenkammer"
-    }
-  ]
+  "Diamantschwert": {
+    "kategorie": "Schwert",
+    "schaden": 50,
+    "preis": 100,
+    "beschreibung": "Ein langes Schwert aus Stahl, ideal für den Nahkampf.",
+    "herkunft": "Mittelalterliches Europa",
+    "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroQEKN4IKdCxRUx8TZUwdz3uaJO5ZQSgYhQ&s"
+  },
+  "Leviathan Axt": {
+    "kategorie": "Axt",
+    "schaden": 60,
+    "preis": 120,
+    "beschreibung": "Eine schwere Kriegsaxt, perfekt für vernichtende Angriffe.",
+    "herkunft": "Wikingerzeit",
+    "bild": "https://fortnite.gg/img/items/2457/icon.jpg?4"
+  },
+  "mjölnir": {
+    "kategorie": "Hammer",
+    "schaden": 70,
+    "preis": 150,
+    "beschreibung": "Ein mächtiger Hammer für schwere Schläge.",
+    "herkunft": "Mittelalterliches Europa",
+    "bild": "https://sw6.elbenwald.de/media/86/b2/ce/1652222132/E1071443_1.jpg"
+  },
+  "Form des scharlachroten Mondes": {
+    "kategorie": "Sense",
+    "schaden": 40,
+    "preis": 90,
+    "beschreibung": "Ein leichter Speer, der für die Jagd verwendet wird.",
+    "herkunft": "Antikes Griechenland",
+    "bild": "https://gensh.honeyhunterworld.com/img/i_n13512_gacha_icon.webp?x41756"
+  },
+  "Hylia-Schild": {
+    "kategorie": "Schild",
+    "schaden": 0,
+    "preis": 70,
+    "beschreibung": "Ein einfacher Rundschild aus Holz, leicht und effektiv.",
+    "herkunft": "Wikingerzeit",
+    "bild": "https://www.zeldapendium.de/w/images/7/7a/Hylia-Schild_BotW_Icon.png"
+  },
+  "Xenonbogen": {
+    "kategorie": "Bogen",
+    "schaden": 40,
+    "preis": 80,
+    "beschreibung": "Ein langer Bogen mit hoher Reichweite.",
+    "herkunft": "England",
+    "bild": "https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fsave-the-world-s-newest-update-4-28-2020%2Ffortnite-xenion-bow-1920x1080-8805a8f0c88cac2b3a3cc0e7be7f2d140419ca09.jpg"
+  },
+  "Goldene Scar": {
+    "kategorie": "Sturmgewehr",
+    "schaden": 50,
+    "preis": 100,
+    "beschreibung": "Eine leichte Armbrust für schnelle Angriffe.",
+    "herkunft": "Mittelalterliches Europa",
+    "bild": "https://preview.redd.it/ud5rx83m0ryb1.jpg?auto=webp&s=33928fe33862b64678af5e79443a65d98b6286d7"
+  },
+  "Berserker Armor": {
+    "kategorie": "Rüstung",
+    "schaden": 0,
+    "preis": 200,
+    "beschreibung": "Eine robuste Kettenrüstung, die guten Schutz bietet.",
+    "herkunft": "Mittelalterliches Europa",
+    "bild": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/03/guts-berserker-armor-1.jpg"
+  },
+  "Plötze": {
+    "kategorie": "Pferd",
+    "schaden": 0,
+    "preis": 300,
+    "beschreibung": "Ein starkes und schnelles Pferd, das im Kampf eingesetzt wird.",
+    "herkunft": "Mittelalterliches Europa",
+    "bild": "https://sm.ign.com/ign_de/screenshot/default/blob_ad4e.jpg"
+  },
+  "Heiliges Wasser": {
+    "kategorie": "Trank",
+    "schaden": 0,
+    "preis": 50,
+    "beschreibung": "Ein Trank, der Wunden heilt und Gesundheit wiederherstellt.",
+    "herkunft": "Alchemistenlabor",
+    "bild": "https://static.wikia.nocookie.net/dragonball/images/1/1d/Sacred_water.jpg/revision/latest?cb=20120603234420"
+  },
+  "Nyoi Bō": {
+    "kategorie": "Stab",
+    "schaden": 60,
+    "preis": 150,
+    "beschreibung": "Ein mächtiger Stab, der Feuerbälle abschießen kann.",
+    "herkunft": "Feuermagiergilde",
+    "bild": "https://static.wikia.nocookie.net/dragonball/images/e/e2/Nyoi_bo_Anime.png/revision/latest?cb=20150828155740&path-prefix=de"
+  },
+  "Wonder of U": {
+    "kategorie": "Stand",
+    "schaden": 0,
+    "preis": 80,
+    "beschreibung": "Ein Ständer, der Platz für bis zu 10 Waffen bietet.",
+    "herkunft": "Schmiedewerkstatt",
+    "bild": "https://i.redd.it/qdyxpvh6ba1d1.jpeg"
+  }
 }
