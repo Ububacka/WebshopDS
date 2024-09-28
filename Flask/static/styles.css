@@ -2,8 +2,12 @@
 body {
     background-image: url("https://wallpapercave.com/wp/wp2173985.jpg");
 
-    .text{color: white}
-    .bg{background-color: black}
+
+    .text {
+        color: white}
+
+    .bg{
+        background-color: black}
 
     .lb {
       width: 400px;
@@ -16,7 +20,7 @@ body {
       overflow-y: auto;
       text-align: left;
       float: left;
-      margin-left: 0px;
+      margin-left: 10px;
     }
 
     .rb {
@@ -33,12 +37,22 @@ body {
       margin-right: 10px;
     }
 
-p{
-    color: white;
+    .bc {
+        margin: auto;
+        text-align: center;
+        width: 400px;
+        height: 200px;
+        object-fit: contain;
+    }
 
-}
+    .b {
+        background-color:;
+        padding: 40px;
+        border: 1px solid greenyellow;
+        margin-left: 400px;
+        margin-right: 400px;
 
-    h1
+
 
 
 
