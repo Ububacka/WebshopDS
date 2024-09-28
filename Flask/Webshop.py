@@ -17,6 +17,10 @@ def sky():
     with open('Artikel.json', 'r', encoding='utf-8') as f:
 
         data = json.load(f)
+
+
+
+
     return render_template('Webshop.html', items=data)
 
 
@@ -75,6 +79,10 @@ def Warenkorb():
 @app.route("/Skybase/Impressum")
 def Impressum():
     return render_template("Impressum.html")
+
+@app.route("/Skybase/Prime")
+def Prime():
+    return render_template("Prime.html")
 
 
 if __name__ == '__main__':
