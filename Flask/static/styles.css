@@ -69,10 +69,47 @@ body {
     }
 
 
+    .pi1 {
+        width: 400px;
+        height: 600px;
+        background-color: #222222;
+        color: white;
+        padding: 10px;
+        border: 4px solid darkred;
+        word-wrap: break-word;
+        overflow-y: auto;
+        text-align: center;
+        float: left;
+        margin-left: 225px;
+    }
 
+    .pi2 {
+        width: 400px;
+        height: 600px;
+        background-color: #222222;
+        color: white;
+        padding: 10px;
+        border: 4px solid darkred;
+        word-wrap: break-word;
+        overflow-y: auto;
+        text-align: center;
+        float: left;
+        margin-left: 150px;
+    }
 
-
-
+    .pi3 {
+        width: 400px;
+        height: 600px;
+        background-color: #222222;
+        color: white;
+        padding: 10px;
+        border: 4px solid darkred;
+        word-wrap: break-word;
+        overflow-y: auto;
+        text-align: center;
+        float: left;
+        margin-left: 150px;
+    }
 
 
 
