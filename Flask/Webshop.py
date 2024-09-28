@@ -12,7 +12,7 @@ def Tic():
     return redirect(url_for('sky'))
 
 
-@app.route('/skybase')
+@app.route('/Skybase')
 def sky():
     with open('Artikel.json', 'r', encoding='utf-8') as f:
 
@@ -55,20 +55,24 @@ def Tic():
 '''
 
 
-@app.route("/skybase/Top-Items")
+@app.route("/Skybase/Kategorien")
 def Top_Items():
     return render_template("Kategorie.html")
 
+@app.route("/Skybase/Partner")
+def Partner():
+    return render_template("Partner.html")
 
-@app.route("/skybase/Charts")
+
+@app.route("/Skybase/Bestseller")
 def Charts():
     return render_template("Bestseller.html")
 
-@app.route("/skybase/Warenkorb")
+@app.route("/Skybase/Warenkorb")
 def Warenkorb():
     return render_template("Warenkorb.html")
 
-@app.route("/skybase/Impressum")
+@app.route("/Skybase/Impressum")
 def Impressum():
     return render_template("Impressum.html")
 
