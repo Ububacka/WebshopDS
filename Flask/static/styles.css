@@ -7,34 +7,48 @@ body {
         color: white}
 
     .bg{
-        background-color: black}
+        background-color:#222222}
 
     .lb {
       width: 400px;
       height: 200px;
-      background-color: black;
+      background-color:#222222;
       color: white;
       padding: 10px;
-      border: 1px solid darkred;
+      border: 4px solid darkred;
       word-wrap: break-word;
       overflow-y: auto;
       text-align: left;
       float: left;
-      margin-left: 10px;
+      margin-left: 150px;
+    }
+
+    .xlb {
+      width: 400px;
+      height: 200px;
+      background-color:#222222;
+      color: white;
+      padding: 10px;
+      border: 4px solid darkred;
+      word-wrap: break-word;
+      overflow-y: auto;
+      text-align: right;
+      float: left;
+      margin-left: 250px;
     }
 
     .rb {
       width: 400px;
       height: 200px;
-      background-color: black;
+      background-color:#222222;
       color: white;
       padding: 10px;
-      border: 1px solid darkblue;
+      border: 4px solid darkblue;
       word-wrap: break-word;
       overflow-y: auto;
       text-align: left;
       float: right;
-      margin-right: 10px;
+      margin-right: 50px;
     }
 
     .bc {
@@ -46,9 +60,9 @@ body {
     }
 
     .b {
-
+        background-color:#222222;
         padding: 40px;
-        border: 1px solid greenyellow;
+        border: 4px solid greenyellow;
         margin-left: 400px;
         margin-right: 400px;
 

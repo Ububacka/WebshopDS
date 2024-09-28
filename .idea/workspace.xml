@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0df714ef-9d1f-4048-ab9e-7a1bb9307b08" name="Changes" comment="HA">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WebshopDS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WebshopDS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Artikel.json" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/Artikel.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/static/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/static/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/templates/Impressum.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/templates/Impressum.html" afterDir="false" />
+    <list default="true" id="0df714ef-9d1f-4048-ab9e-7a1bb9307b08" name="Changes" comment="ben">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Flask/templates/Webshop.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/templates/Webshop.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +57,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -159,7 +155,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727096509889</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ben">
+      <option name="closed" value="true" />
+      <created>1727556486037</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727556486037</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ben">
+      <option name="closed" value="true" />
+      <created>1727558836083</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727558836083</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +179,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HA" />
-    <option name="LAST_COMMIT_MESSAGE" value="HA" />
+    <MESSAGE value="ben" />
+    <option name="LAST_COMMIT_MESSAGE" value="ben" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/WebshopDS$Webshop.coverage" NAME="Webshop Coverage Results" MODIFIED="1727553080759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask" />
