@@ -21,14 +21,14 @@ Ohne Skybase kommt ihr gar nicht mehr klar</h>
 
 <div id="myCarousel" class="carousel slide b" data-ride="carousel">
   <!-- Indicators -->
-  <ol class="carousel-indicators ">
+  <ol class="carousel-indicators col-md-6 ">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
     <li data-target="#myCarousel" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img class="first-slide bc" src="{{ items['Form des scharlachroten Mondes'].bild }}" alt="First slide">
+      <img class="first-slide bc" src="{{ items['mjölnir'].bild }}" alt="First slide">
       <div class="container">
         <div class="carousel-caption">
             <h1>I HATE BLACK MONKEYS!!!!</h1>
@@ -79,6 +79,26 @@ Ohne Skybase kommt ihr gar nicht mehr klar</h>
         <h2>Unsere Neuigkeiten:</h2>
         <p>Heute sind neue Stand in unserem sortiment angekommen, und Sehr starke neue Schwerter</p>
     </div>
+            <div class="container">
+    <div class="row">
+        <div class="col-ms-4 waffen" style="float: right">
+        {% for item_name, item in items.items() %}
+            {% if item.bewertung > 9.7 %}
+                <div class="card" style="width: 18rem;">
+                    <img src="{{ item.bild}}" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <p class="card-text">{{ item.preis }}</p>
+                        </div>
+</div>
+
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
+
+
+
+
 </div>
 
 </div>
@@ -93,10 +113,15 @@ Ohne Skybase kommt ihr gar nicht mehr klar</h>
 <div class="row">
     <div class="col-6 ms-5 p-3 text-center border lb">
         <h2>Hol dir jetzt dein Upgrade!</h2>
-        <p>Hol dir jetzt Skybase Prime<a href="/Skybase/Partner" class="btn btn-success">Hier!</a>
+        <p>Hol dir jetzt Skybase Prime<a href="/Skybase/Prime" class="btn btn-success">Hier!</a>
 </p>
 
     </div>
+
+
+
+
+
 </div>
 
 
@@ -108,24 +133,16 @@ Ohne Skybase kommt ihr gar nicht mehr klar</h>
 
 
 
- <div class="container">
-        <h1 class="text-center">Waffen Übersicht</h1>
-        <div class="row">
-            {% for item_name, item in items.items() %}
-                <div class="col-md-4">
-                    <div class="item-card">
-                        <h2>{{ item_name }}</h2>
-                        <img src="{{ item.bild }}" width="224px" height="225px" alt="{{ item_name }}">
-                        <p><strong>Kategorie:</strong> {{ item.kategorie }}</p>
-                        <p><strong>Schaden:</strong> {{ item.schaden }}</p>
-                        <p><strong>Preis:</strong> {{ item.preis }} Gold</p>
-                        <p><strong>Beschreibung:</strong> {{ item.beschreibung }}</p>
-                        <p><strong>Herkunft:</strong> {{ item.herkunft }}</p>
-                    </div>
-                </div>
-            {% endfor %}
-        </div>
-    </div>
+
+
+
+
+
+
+
+
+
+
 
 </body>
 </html>

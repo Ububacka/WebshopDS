@@ -9,7 +9,7 @@ body {
     .bg{
         background-color:#222222}
 
-    .lb {
+    .lb{
       width: 400px;
       height: 200px;
       background-color:#222222;
@@ -22,6 +22,24 @@ body {
       float: left;
       margin-left: 150px;
     }
+
+.zb {
+      width: 800px;
+      height: 500px;
+      background-color:#222222;
+      color: black;
+      border: 4px solid darkblue;
+      word-wrap: break-word;
+      overflow-y: auto;
+      text-align: left;
+      float: right;
+    }
+
+
+
+
+
+
 
     .xlb {
       width: 400px;
@@ -111,14 +129,16 @@ body {
         margin-left: 150px;
     }
 
+p{
+    color: white;
 
 
+}
 
+h5{
+    color:white;
 
-
-
-
-
+}
 
 
 
@@ -145,13 +165,35 @@ body {
     }
 
 
+.waffen {
+        background-color: #222222;
+        text-align: center;
+        border: 4px groove lightblue;
+        padding: 10px;
+        color: white;
+    }
 
 
 
+    .item {
+        background-color: transparent;
+    }
 
-
-
-
-
+ .partner-card {
+            background-color: rgba(34, 34, 34, 0.8); /* Transparenz für den Hintergrund */
+            border: 4px solid darkred;
+            margin: 15px 0; /* Vertikaler Abstand zwischen den Karten */
+            padding: 20px;
+            text-align: center;
+            overflow-y: auto;
+            transition: transform 0.2s; /* Animation für Hover-Effekt */
+        }
+        .partner-card:hover {
+            transform: scale(1.05); /* Vergrößerung beim Hover */
+        }
+        .partner-card img {
+            max-width: 100%; /* Bild responsive machen */
+            height: auto; /* Bildproportionen beibehalten */
+        }
 
 }

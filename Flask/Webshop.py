@@ -3,7 +3,8 @@ import json
 
 app = Flask(__name__)
 
-
+with open('Artikel.json', encoding='utf-8') as f:
+    data = json.load(f)
 
 
 
@@ -14,14 +15,22 @@ def Tic():
 
 @app.route('/Skybase')
 def sky():
-    with open('Artikel.json', 'r', encoding='utf-8') as f:
 
-        data = json.load(f)
 
 
 
 
     return render_template('Webshop.html', items=data)
+
+@app.route('/Skybase/<Kategorie>')
+def Kato(Kategorie):
+    fil_kategorie = {}
+    for name, item in data.items():
+        if item['kategorie'] == Kategorie:  # Vergleicht die übergebene Kategorie mit der Kategorie im Item
+            fil_kategorie[name] = item
+
+    return render_template('Kategorie.html', items=fil_kategorie)
+
 
 
 
