@@ -3,7 +3,8 @@ import json
 
 app = Flask(__name__)
 
-
+with open('Artikel.json', 'r', encoding='utf-8') as f:
+    data = json.load(f)
 
 
 
@@ -14,9 +15,7 @@ def Tic():
 
 @app.route('/Skybase')
 def sky():
-    with open('Artikel.json', 'r', encoding='utf-8') as f:
 
-        data = json.load(f)
 
 
 
@@ -70,7 +69,7 @@ def Partner():
 
 @app.route("/Skybase/Bestseller")
 def Charts():
-    return render_template("Bestseller.html")
+    return render_template("Bestseller.html", items=data)
 
 @app.route("/Skybase/Warenkorb")
 def Warenkorb():

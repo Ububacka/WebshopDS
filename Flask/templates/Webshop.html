@@ -3,11 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Webshop</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    {% include 'Bootstrap.html' %}
 </head>
 <body>
  {% include 'Navileiste.html' %}
@@ -21,22 +17,22 @@ Ohne Skybase kommt ihr gar nicht mehr klar</h>
 
 <div id="myCarousel" class="carousel slide b" data-ride="carousel">
   <!-- Indicators -->
-  <ol class="carousel-indicators ">
+  <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
     <li data-target="#myCarousel" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner" role="listbox">
-    <div class="item active">
-      <img class="first-slide bc" src="{{ items['Form des scharlachroten Mondes'].bild }}" alt="First slide">
+    <div class="item active ">
+      <img class="first-slide pic" src="{{ items['Form des scharlachroten Mondes'].bild }}" height="200" width="200" alt="First slide">
       <div class="container">
         <div class="carousel-caption">
             <h1>I HATE BLACK MONKEYS!!!!</h1>
         </div>
       </div>
     </div>
-    <div class="item">
-      <img class="second-slide bc" src="{{ items['Nyoi Bō'].bild }}" alt="Second slide">
+    <div class="item ">
+      <img class="second-slide pic" src="{{ items['Nyoi Bō'].bild }}" height="200" width="200" alt="Second slide">
       <div class="container">
         <div class="carousel-caption">
           <h1>INSHALLAH LUFFY LONG LIFE THE STRAWHAT PIRATES</h1>
@@ -44,8 +40,8 @@ Ohne Skybase kommt ihr gar nicht mehr klar</h>
         </div>
       </div>
     </div>
-    <div class="item">
-      <img class="third-slide bc" src="{{ items['Berserker Armor'].bild }}" alt="Third slide">
+    <div class="item ">
+      <img class="third-slide pic" src="{{ items['Berserker Armor'].bild }}" height="600" width="200" alt="Third slide">
       <div class="container">
         <div class="carousel-caption">
           <h1>ICH KÜMMERE MICH UM DEN AUSLÄNDER</h1>
@@ -95,25 +91,18 @@ Ohne Skybase kommt ihr gar nicht mehr klar</h>
         <h2>Hol dir jetzt dein Upgrade!</h2>
         <p>Hol dir jetzt Skybase Prime<a href="/Skybase/Partner" class="btn btn-success">Hier!</a>
 </p>
-
     </div>
 </div>
 
 
 
 
-
-
-
-
-
-
  <div class="container">
-        <h1 class="text-center">Waffen Übersicht</h1>
+        h1 class="text-center">Waffen Übersicht</h1><
         <div class="row">
             {% for item_name, item in items.items() %}
                 <div class="col-md-4">
-                    <div class="item-card">
+                    <div class="item-card waffen">
                         <h2>{{ item_name }}</h2>
                         <img src="{{ item.bild }}" width="224px" height="225px" alt="{{ item_name }}">
                         <p><strong>Kategorie:</strong> {{ item.kategorie }}</p>
