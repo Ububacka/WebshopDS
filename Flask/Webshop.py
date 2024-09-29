@@ -79,7 +79,7 @@ def Partner():
 
 @app.route("/Skybase/Bestseller")
 def Charts():
-    return render_template("Bestseller.html")
+    return render_template("Bestseller.html", items=data)
 
 @app.route("/Skybase/Warenkorb")
 def Warenkorb():

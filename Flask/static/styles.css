@@ -39,8 +39,6 @@ body {
 
 
 
-
-
     .xlb {
       width: 400px;
       height: 200px;
@@ -54,6 +52,22 @@ body {
       float: left;
       margin-left: 250px;
     }
+
+
+    .xxlb {
+       width: 600px;
+      height: 400px;
+      background-color:#222222;
+      color: white;
+      padding: 10px;
+      border: 4px solid red;
+      word-wrap: break-word;
+      overflow-y: auto;
+      text-align: left;
+      float: left;
+      margin-left: 250px;
+    }
+
 
     .rb {
       width: 400px;
@@ -80,7 +94,7 @@ body {
     .b {
         background-color:#222222;
         padding: 40px;
-        border: 4px solid greenyellow;
+        border: 4px double yellow;
         margin-left: 400px;
         margin-right: 400px;
 
@@ -99,6 +113,34 @@ body {
         text-align: center;
         float: left;
         margin-left: 225px;
+    }
+
+    .pi1r {
+        width: 400px;
+        height: 600px;
+        background-color: #222222;
+        color: white;
+        padding: 10px;
+        border: 4px solid darkred;
+        word-wrap: break-word;
+        overflow-y: auto;
+        text-align: center;
+        float: right;
+        margin-left: 25px;
+    }
+
+    .pi2r {
+        width: 400px;
+        height: 600px;
+        background-color: #222222;
+        color: white;
+        padding: 10px;
+        border: 4px solid darkred;
+        word-wrap: break-word;
+        overflow-y: auto;
+        text-align: center;
+        float: right;
+        margin-right: 25px;
     }
 
     .pi2 {
@@ -129,23 +171,34 @@ body {
         margin-left: 150px;
     }
 
-p{
-    color: white;
+    .oi1 {
+        width: 400px;
+        height: 600px;
+        background-color: #222222;
+        color: white;
+        padding: 10px;
+        border: 4px solid darkred;
+        word-wrap: break-word;
+        overflow-y: auto;
+        text-align: center;
+        float: left;
+        margin-left: 50px;
+    }
 
 
-}
-
-h5{
-    color:white;
-
-}
+    .pic {
+        text-align: center;
+        margin: auto;
+    }
 
 
-
-
-
-
-
+    .waffen {
+        background-color: #222222;
+        text-align: center;
+        border: 4px solid darkred;
+        padding: 5px;
+        color: white;
+    }
 
 
      .itf {
@@ -161,8 +214,19 @@ h5{
       float: left;
       margin-left:700px;
       margin-right:600px;
-
     }
+
+    .Titel {
+        background-color: #222222;
+        color: white;
+        padding: 10px;
+        text-align: center;
+        border: 4px groove yellow;
+        margin-right: 775px;
+        margin-left: 775px;
+    }
+
+
 
 
 .waffen {
