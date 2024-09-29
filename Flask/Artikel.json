@@ -5,7 +5,8 @@
     "preis": 100,
     "beschreibung": "Ein langes Schwert aus Stahl, ideal für den Nahkampf.",
     "herkunft": "Mittelalterliches Europa",
-    "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroQEKN4IKdCxRUx8TZUwdz3uaJO5ZQSgYhQ&s"
+    "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroQEKN4IKdCxRUx8TZUwdz3uaJO5ZQSgYhQ&s",
+    "bewertung": 4.5
   },
   "Das Dragonslayer": {
     "kategorie": "Schwert",
@@ -13,24 +14,17 @@
     "preis": 100,
     "beschreibung": "Ein langes Schwert aus Stahl, ideal für den Nahkampf.",
     "herkunft": "Mittelalterliches Europa",
-    "bild": "https://ih1.redbubble.net/image.5125194478.5921/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
+    "bild": "https://ih1.redbubble.net/image.5125194478.5921/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+    "bewertung": 4.8
   },
-
-
-
-
-
   "Leviathan Axt": {
     "kategorie": "Axt",
     "schaden": 60,
     "preis": 120,
     "beschreibung": "Eine schwere Kriegsaxt, perfekt für vernichtende Angriffe.",
     "herkunft": "Wikingerzeit",
-    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1289688117879636039/icon.jpg?ex=66f9bb28&is=66f869a8&hm=8f53549f52b2a7ad26a2d1e34f4b426d69b476459eaca0cd847b9cb5351258b7&=&format=webp&width=262&height=325"
-
-
-
-
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1289688117879636039/icon.jpg?ex=66f9bb28&is=66f869a8&hm=8f53549f52b2a7ad26a2d1e34f4b426d69b476459eaca0cd847b9cb5351258b7&=&format=webp&width=262&height=325",
+    "bewertung": 4.7
   },
   "mjölnir": {
     "kategorie": "Hammer",
@@ -38,105 +32,89 @@
     "preis": 150,
     "beschreibung": "Ein mächtiger Hammer für schwere Schläge.",
     "herkunft": "Mittelalterliches Europa",
-    "bild": "https://sw6.elbenwald.de/media/86/b2/ce/1652222132/E1071443_1.jpg"
+    "bild": "https://sw6.elbenwald.de/media/86/b2/ce/1652222132/E1071443_1.jpg",
+    "bewertung": 4.9
   },
-
-
-
   "Form des scharlachroten Mondes": {
     "kategorie": "Speer",
     "schaden": 40,
     "preis": 90,
     "beschreibung": "Ein leichter Speer, der für die Jagd verwendet wird.",
     "herkunft": "Antikes Griechenland",
-    "bild": "https://gensh.honeyhunterworld.com/img/i_n13512_gacha_icon.webp?x41756"
+    "bild": "https://gensh.honeyhunterworld.com/img/i_n13512_gacha_icon.webp?x41756",
+    "bewertung": 4.3
   },
-   "Inverted Spear Of Heaven": {
+  "Inverted Spear Of Heaven": {
     "kategorie": "Speer",
     "schaden": 40,
     "preis": 90,
     "beschreibung": "Ein leichter Speer, der für die Jagd verwendet wird.",
     "herkunft": "Antikes Griechenland",
-    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290057531837911091/Inverted_Spear_of_Heaven_29.png?ex=66fb1333&is=66f9c1b3&hm=89eaea3c885390e7cb9d108eee4e3f5b99155104034be24cf5d2a1c3fc138989&=&format=webp&quality=lossless&width=687&height=387"
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290057531837911091/Inverted_Spear_of_Heaven_29.png?ex=66fb1333&is=66f9c1b3&hm=89eaea3c885390e7cb9d108eee4e3f5b99155104034be24cf5d2a1c3fc138989&=&format=webp&quality=lossless&width=687&height=387",
+    "bewertung": 4.6
   },
-
-
-
-
   "Hylia-Schild": {
     "kategorie": "Schild",
     "schaden": 0,
     "preis": 70,
     "beschreibung": "Ein einfacher Rundschild aus Holz, leicht und effektiv.",
     "herkunft": "Wikingerzeit",
-    "bild": "https://www.zeldapendium.de/w/images/7/7a/Hylia-Schild_BotW_Icon.png"
+    "bild": "https://www.zeldapendium.de/w/images/7/7a/Hylia-Schild_BotW_Icon.png",
+    "bewertung": 4.4
   },
-
-
-
-
   "Xenonbogen": {
     "kategorie": "Bogen",
     "schaden": 40,
     "preis": 80,
     "beschreibung": "Ein langer Bogen mit hoher Reichweite.",
     "herkunft": "England",
-    "bild": "https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fsave-the-world-s-newest-update-4-28-2020%2Ffortnite-xenion-bow-1920x1080-8805a8f0c88cac2b3a3cc0e7be7f2d140419ca09.jpg"
+    "bild": "https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fsave-the-world-s-newest-update-4-28-2020%2Ffortnite-xenion-bow-1920x1080-8805a8f0c88cac2b3a3cc0e7be7f2d140419ca09.jpg",
+    "bewertung": 4.5
   },
-
-
-
-
-
   "3D-Manöver-Apparat": {
     "kategorie": "Utensilien",
     "schaden": 50,
     "preis": 100,
     "beschreibung": "Eine leichte Armbrust für schnelle Angriffe.",
     "herkunft": "Mittelalterliches Europa",
-    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290056823969157242/3D-Man28Anime29.png?ex=66fb128a&is=66f9c10a&hm=c3e26f09c7699a325105fe4d2a3a518ef6ecc55be8e0b384d0fe36ae0952927a&=&format=webp&quality=lossless&width=687&height=387"
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290056823969157242/3D-Man28Anime29.png?ex=66fb128a&is=66f9c10a&hm=c3e26f09c7699a325105fe4d2a3a518ef6ecc55be8e0b384d0fe36ae0952927a&=&format=webp&quality=lossless&width=687&height=387",
+    "bewertung": 4.7
   },
-
   "Scouter": {
     "kategorie": "Utensilien",
     "schaden": 50,
     "preis": 100,
     "beschreibung": "Eine leichte Armbrust für schnelle Angriffe.",
     "herkunft": "Mittelalterliches Europa",
-    "bild": "https://cdn.dribbble.com/users/5197/screenshots/3219920/media/d536d9ce5c09145cb18797f4e8b45a67.jpg?resize=800x600&vertical=center"
+    "bild": "https://cdn.dribbble.com/users/5197/screenshots/3219920/media/d536d9ce5c09145cb18797f4e8b45a67.jpg?resize=800x600&vertical=center",
+    "bewertung": 4.6
   },
-
   "Titanserum": {
     "kategorie": "Utensilien",
     "schaden": 50,
     "preis": 100,
     "beschreibung": "Eine leichte Armbrust für schnelle Angriffe.",
     "herkunft": "Mittelalterliches Europa",
-    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290058293406076990/Titan_injection_29.png?ex=66fb13e9&is=66f9c269&hm=dc7fa8fccfac0e8c8d08250eb04212eddc42cd2cc3222e85884185ee30af4dc3&=&format=webp&quality=lossless&width=437&height=437"
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290058293406076990/Titan_injection_29.png?ex=66fb13e9&is=66f9c269&hm=dc7fa8fccfac0e8c8d08250eb04212eddc42cd2cc3222e85884185ee30af4dc3&=&format=webp&quality=lossless&width=437&height=437",
+    "bewertung": 4.8
   },
-
-
-
-
   "Berserker Armor": {
     "kategorie": "Rüstung",
     "schaden": 0,
     "preis": 200,
     "beschreibung": "Eine robuste Kettenrüstung, die guten Schutz bietet.",
     "herkunft": "Mittelalterliches Europa",
-    "bild": "https://preview.redd.it/hello-guys-i-made-three-versions-of-my-berserker-armor-v0-xsfw67l04kpb1.jpg?width=640&crop=smart&auto=webp&s=724e5db77a1bd68cdbc0a91e20bfe3eaaf6181b7"
+    "bild": "https://preview.redd.it/hello-guys-i-made-three-versions-of-my-berserker-armor-v0-xsfw67l04kpb1.jpg?width=640&crop=smart&auto=webp&s=724e5db77a1bd68cdbc0a91e20bfe3eaaf6181b7",
+    "bewertung": 4.9
   },
-
-
-
-
   "Kamehameha": {
     "kategorie": "Spezialtechniken",
     "schaden": 0,
     "preis": 300,
     "beschreibung": "Ein starkes und schnelles Pferd, das im Kampf eingesetzt wird.",
     "herkunft": "Mittelalterliches Europa",
-    "bild": "https://i.pinimg.com/736x/b9/24/98/b924985a04120373e03cd31a9f5e552b.jpg"
+    "bild": "https://i.pinimg.com/736x/b9/24/98/b924985a04120373e03cd31a9f5e552b.jpg",
+    "bewertung": 4.6
   },
   "Hollow Purple": {
     "kategorie": "Spezialtechniken",
@@ -144,7 +122,8 @@
     "preis": 300,
     "beschreibung": "Ein starkes und schnelles Pferd, das im Kampf eingesetzt wird.",
     "herkunft": "Mittelalterliches Europa",
-    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290058648877400160/Hollow_Purple_-_Item_-_Fortnite.png?ex=66fb143e&is=66f9c2be&hm=f715162ad41c3af45aeb785a9b0ad7dd2e8fb8e4076754002bbd1ab1fa049c97&=&format=webp&quality=lossless&width=640&height=640"
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290058648877400160/Hollow_Purple_-_Item_-_Fortnite.png?ex=66fb143e&is=66f9c2be&hm=f715162ad41c3af45aeb785a9b0ad7dd2e8fb8e4076754002bbd1ab1fa049c97&=&format=webp&quality=lossless&width=640&height=640",
+    "bewertung": 4.7
   },
   "Ultra Instinct": {
     "kategorie": "Spezialtechniken",
@@ -152,54 +131,43 @@
     "preis": 300,
     "beschreibung": "Ein starkes und schnelles Pferd, das im Kampf eingesetzt wird.",
     "herkunft": "Mittelalterliches Europa",
-    "bild": "https://i.redd.it/u1t2wg5qfth31.jpg"
+    "bild": "https://i.redd.it/u1t2wg5qfth31.jpg",
+    "bewertung": 4.8
   },
-
-
-
-
-
-
   "Heiliges Wasser": {
     "kategorie": "Trank",
     "schaden": 0,
     "preis": 50,
     "beschreibung": "Ein Trank, der Wunden heilt und Gesundheit wiederherstellt.",
     "herkunft": "Alchemistenlabor",
-    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1289688283743256586/Sacred_water.png?ex=66f9bb50&is=66f869d0&hm=939ae42e7d6f34f3930d67a742539fe06338f42c52ca8958eedffe060abaf2f9&=&format=webp&quality=lossless&width=597&height=446"
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1289688283743256586/Sacred_water.png?ex=66f9bb50&is=66f869d0&hm=939ae42e7d6f34f3930d67a742539fe06338f42c52ca8958eedffe060abaf2f9&=&format=webp&quality=lossless&width=597&height=446",
+    "bewertung": 4.9
   },
-
-
-
-
   "Nyoi Bō": {
     "kategorie": "Stab",
     "schaden": 60,
     "preis": 150,
     "beschreibung": "Ein mächtiger Stab, der Feuerbälle abschießen kann.",
     "herkunft": "Feuermagiergilde",
-    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1289687446719565876/Nyoi_bo_Anime.png?ex=66f9ba88&is=66f86908&hm=348f966ffdf8c39ac9910267502139ef7b632706f540fa2d1b7d08e01b3fa3c6&=&format=webp&quality=lossless&width=800&height=450"
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1289687446719565876/Nyoi_bo_Anime.png?ex=66f9ba88&is=66f86908&hm=348f966ffdf8c39ac9910267502139ef7b632706f540fa2d1b7d08e01b3fa3c6&=&format=webp&quality=lossless&width=800&height=450",
+    "bewertung": 4.8
   },
-
-
-
   "Wonder of U": {
     "kategorie": "Stand",
     "schaden": 0,
     "preis": 80,
     "beschreibung": "Ein Ständer, der Platz für bis zu 10 Waffen bietet.",
     "herkunft": "Schmiedewerkstatt",
-    "bild": "https://i.redd.it/qdyxpvh6ba1d1.jpeg"
+    "bild": "https://i.redd.it/qdyxpvh6ba1d1.jpeg",
+    "bewertung": 4.2
   },
-
   "Star Platinum": {
     "kategorie": "Stand",
     "schaden": 0,
     "preis": 80,
     "beschreibung": "Ein Ständer, der Platz für bis zu 10 Waffen bietet.",
     "herkunft": "Schmiedewerkstatt",
-    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290048709035561023/StarPlatinum_AnimeAV.png?ex=66fb0afc&is=66f9b97c&hm=3c0d5c1ad7821ea22efd6ca7523ee9a1967922bc6af44b750d3fc8f2d3e30bd6&=&format=webp&quality=lossless&width=532&height=676"
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290048709035561023/StarPlatinum_AnimeAV.png?ex=66fb0afc&is=66f9b97c&hm=3c0d5c1ad7821ea22efd6ca7523ee9a1967922bc6af44b750d3fc8f2d3e30bd6&=&format=webp&quality=lossless&width=532&height=676",
+    "bewertung": 4.4
   }
-
-
 }
