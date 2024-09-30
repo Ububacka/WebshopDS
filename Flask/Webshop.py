@@ -5,7 +5,7 @@ import json
 import random
 
 app = Flask(__name__)
-
+ #eröffnet die datei artikel und encodet in und packt ihn in die var f
 with open('Artikel.json', encoding='utf-8') as f:
     data = json.load(f)
 
@@ -18,7 +18,8 @@ def Tic():
 
 @app.route('/Skybase')
 def sky():
-
+    #nimmt hier 4 random items aus der data(artikel liste) raus und setzt sie dan in items raus
+    #random.samples erstellt 4 random listen mit random items aus data
     random_data = random.sample(list(data.items()),4)
 
     return render_template('Webshop.html', items=data, go=random_data)
