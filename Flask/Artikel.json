@@ -59,7 +59,7 @@
     "preis": 120,
     "beschreibung": "Die Leviathan Axt ist eine 2 Händige Kriegs Axt, sie wurde von Brok und Sindri für Laufey geschmiedet und sollte den Fehler den sie beim schmieden von Mjolnir gemacht haben rückgängig machen.",
     "herkunft": "God of War und Fortnite Universum",
-    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1289688117879636039/icon.jpg?ex=66f9bb28&is=66f869a8&hm=8f53549f52b2a7ad26a2d1e34f4b426d69b476459eaca0cd847b9cb5351258b7&=&format=webp&width=262&height=325",
+    "bild": "/static/icon.png",
     "bewertung": 7.7
   },
   "Loaded Axe": {
@@ -347,7 +347,7 @@
     "preis": 50,
     "beschreibung": "wird auf dem Karin-Turm bewacht von Meister Quitte es soll den trinker stärker machen.",
     "herkunft": "Dragonball Universum",
-    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1289688283743256586/Sacred_water.png?ex=66f9bb50&is=66f869d0&hm=939ae42e7d6f34f3930d67a742539fe06338f42c52ca8958eedffe060abaf2f9&=&format=webp&quality=lossless&width=597&height=446",
+    "bild": "/static/Sacred_water.png",
     "bewertung": 1.0
   },
   "Estus Flask": {
@@ -383,7 +383,7 @@
     "preis": 150,
     "beschreibung": "Der Stab wird nach wünschen des Besitzers Länger oder kürzer, seine aufgabe besteht eigentlich darin das der stab Karin-Turm mit dem Gottes Palast verbinden soll",
     "herkunft": "Dragonball Universum",
-    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1289687446719565876/Nyoi_bo_Anime.png?ex=66f9ba88&is=66f86908&hm=348f966ffdf8c39ac9910267502139ef7b632706f540fa2d1b7d08e01b3fa3c6&=&format=webp&quality=lossless&width=800&height=450",
+    "bild": "/static/Nyoi_bo_Anime.png",
     "bewertung": 7.1
   },
   "Wonder of U": {
