@@ -7,7 +7,6 @@
     <list default="true" id="0df714ef-9d1f-4048-ab9e-7a1bb9307b08" name="Changes" comment="ben">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Flask/Webshop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/Webshop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/templates/Impressum.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/templates/Impressum.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,8 +100,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
-        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
@@ -124,6 +123,7 @@
       <workItem from="1727545204910" duration="846000" />
       <workItem from="1727622458246" duration="15996000" />
       <workItem from="1727641011088" duration="14669000" />
+      <workItem from="1727689481329" duration="1756000" />
     </task>
     <task id="LOCAL-00001" summary="HA">
       <option name="closed" value="true" />
@@ -221,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727685625579</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ben">
+      <option name="closed" value="true" />
+      <created>1727688439903</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727688439903</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -33,13 +33,13 @@ def Kato(Kategorie):
 
     return render_template('Kategorie.html', items=fil_kategorie)
 
-
-
-
 @app.route('/Suche', methods=['GET'])
 def Suche():
     Error = None
     Suche = request.args.get('Suche').lower()
+
+    #zu erst erstellen wir ein dic, dann wird jeder schlüssel(name) durchsucht und name(die ganzen inhalte) in Data gespeichert.
+    #nun guckt er ob wenn man in der suche den namen von dem schlüssel eingibt oder die herkunft von allen schlüsseln eingibt und wenn was gefunden wurde führt er es unten aus
 
     # Erstelle ein leeres Dictionary für die gefilterten Kategorien
     fil_kategorie = {}
