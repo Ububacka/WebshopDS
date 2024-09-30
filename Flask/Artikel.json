@@ -439,5 +439,23 @@
     "herkunft": "JoJo´s Bizarre Adventure",
     "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290183222549811260/Crazy_Diamond_Anime.png?ex=66fb8842&is=66fa36c2&hm=07e9ea6d9551739e7e859a5c6c32e321882284029ac2182a91ff605451e78c64&=&format=webp&quality=lossless&width=548&height=676",
     "bewertung": 7.6
+  },
+   " Cloud Strife's": {
+    "kategorie": "Schwert",
+    "schaden": 90,
+    "preis": 70,
+    "beschreibung": "Cloud's treues Schwert welche sogar den mächtigen Sephiroth bezwingen konnte",
+    "herkunft": "Final Fantasy",
+    "bild": "https://m.media-amazon.com/images/I/414nm2Ak+0S._AC_UF1000,1000_QL80_.jpg",
+    "bewertung": 9.0
+  },
+   "Masamune (FFVII)": {
+    "kategorie": "Schwert",
+    "schaden": 95,
+    "preis": 700,
+    "beschreibung": "Die mächtige Waffe vom genitische veränderten Menschen Sephiroth ",
+    "herkunft": "Final Fantasy",
+    "bild": "https://preview.redd.it/3afvp4shhxia1.jpg?auto=webp&s=96b654f90fce2f71e3ab9fecfde2616f8bb0dcde",
+    "bewertung": 9.6
   }
 }
