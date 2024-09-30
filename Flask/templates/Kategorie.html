@@ -10,8 +10,8 @@
 
 
 
-
-  <div class="container">
+  <div class="container ">
+      <h1 class="Titel2"> Suchergebnisse:</h1>
             {% if not error %}
         <div class="row">
                 {% for item_name, item in items.items() %}
@@ -25,7 +25,7 @@
                                     <li class="list-group-item item">Preis: {{ item.preis }}</li>
                                     <li class="list-group-item item">Herkunft: {{ item.herkunft }}</li>
                                     <li class="list-group-item item">Schaden: {{ item.schaden }}</li>
-                                    <li class="list-group-item item">Beschreibung: {{ item.beschreibung }}</li>
+                                    <li class="list-group-item item x">Beschreibung: {{ item.beschreibung }}</li>
                                     <li class="list-group-item item">Bewertung: {{ item.bewertung }}</li>
                                     <li class="list-group-item item"><a href="/Skybase/Prime" class="btn btn-success">In den <i class="bi bi-cart-fill"></i> Warenkorb</a></li>
                                 </ul>
