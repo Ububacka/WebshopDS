@@ -1,5 +1,8 @@
-from flask import Flask, render_template, request, redirect, url_for, jsonify
+
+
+from flask import Flask, render_template, request, redirect, url_for
 import json
+import random
 
 app = Flask(__name__)
 
@@ -16,11 +19,9 @@ def Tic():
 @app.route('/Skybase')
 def sky():
 
+    random_data = random.sample(list(data.items()),4)
 
-
-
-
-    return render_template('Webshop.html', items=data)
+    return render_template('Webshop.html', items=data, go=random_data)
 
 @app.route('/Skybase/<Kategorie>')
 def Kato(Kategorie):
@@ -34,14 +35,11 @@ def Kato(Kategorie):
 
 
 
-@app.route('/search')  # 'GET' is the default method, you don't need to mention it explicitly
+@app.route('/search', methods=['GET'])
 def search():
-
-    # query = request.args['search']
-    query = request.GET.get('search')  # try this instead
-
-    req_search = Storage.query.filter_by(req_no=query)
-    return render_template('search.html', req_search=req_search)
+    query = request.args.get('query', '').lower()
+    filtered_items = {name: item for name, item in items.items() if query in name.lower() or query in item['beschreibung'].lower()}
+    return render_template('partner.html', items=filtered_items)
 '''
 @app.route('/', methods=['POST', 'GET'])
 def Tic():
@@ -92,6 +90,15 @@ def Impressum():
 @app.route("/Skybase/Prime")
 def Prime():
     return render_template("Prime.html")
+
+@app.route('/Skybase/<Artikel>')
+def Arto(Artikel):
+    fil_artikel = {}
+    for name, item in data.items():
+        if item['kategorie'] == Artikel:  # Vergleicht die übergebene Kategorie mit der Kategorie im Item
+            fil_artikel[name] = item
+
+    return render_template('Kategorie.html', items=fil_artikel)
 
 
 if __name__ == '__main__':
