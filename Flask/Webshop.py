@@ -36,34 +36,12 @@ def Kato(Kategorie):
 
 
 @app.route('/search', methods=['GET'])
-def search():
-    query = request.args.get('query', '').lower()
-    filtered_items = {name: item for name, item in items.items() if query in name.lower() or query in item['beschreibung'].lower()}
-    return render_template('partner.html', items=filtered_items)
-'''
-@app.route('/', methods=['POST', 'GET'])
-def Tic():
-    error = None
-    Tic = ["", "", "",
-           "", "", "",
-           "", "", ""]
+def Suche():
+    Error = None
+    Suche = request.args.get('Suche').lower()
+    fil_kategorie = {name: item for name, item in data.items() if Suche in name.lower() or Suche in item['herkunft'].lower()}
+    return render_template('Kategorie.html', items=fil_kategorie, error=Error)
 
-    if request.method == "POST":
-        # Überprüfen, ob alle Felder gesendet wurden
-
-        Tic = [ request.form['t1'], request.form['t2'], request.form['t3'],
-                request.form['t4'], request.form['t5'], request.form['t6'],
-                request.form['t7'], request.form['t8'], request.form['t9']
-            ]
-        print(Tic)
-
-
-
-        return render_template("Tic.html", Tic=Tic, error=error)
-
-    # Wenn GET-Anfrage, leeres Tic-Feld initialisieren
-    return render_template("Tic.html", Tic=Tic, error=error)
-'''
 
 
 @app.route("/Skybase/Kategorien")
