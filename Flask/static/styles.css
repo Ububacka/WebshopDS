@@ -175,6 +175,20 @@ body {
 
     }
 
+    .oi1l {
+        width: 400px;
+        height: 600px;
+        background-color: #222222;
+        color: white;
+        padding: 10px;
+        border: 4px solid darkred;
+        word-wrap: break-word;
+        overflow-y: auto;
+        text-align: center;
+        float: left;
+        margin-left: 75px;
+    }
+
     .oi1 {
         width: 400px;
         height: 600px;
@@ -239,6 +253,8 @@ body {
         border: 4px groove lightblue;
         padding: 10px;
         color: white;
+        margin-left: 50px;
+        margin-bottom: 50px;
     }
 
 
@@ -254,5 +270,12 @@ body {
             transform: scale(1.05); /* Vergrößerung beim Hover */
              transition: transform 0.2s; /* Animation für Hover-Effekt */
         }
+
+    .x {
+        word-wrap: break-word;
+        max-height: 75px;
+        overflow-y: scroll;
+    }
+
 
 }
