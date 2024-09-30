@@ -41,10 +41,15 @@ def Suche():
     Error = None
     Suche = request.args.get('Suche').lower()
 
-    # filtern der daten nach dem suchbegriff
-    # Erstellt ein neues Dictionary 'fil_kategorie', das nur die items enthält
-    # bei denen der suchbegriff im Namen oder in der Herkunft vorhanden ist.
-    fil_kategorie = {name: item for name, item in data.items() if Suche in name.lower() or Suche in item['herkunft'].lower()}
+    # Erstelle ein leeres Dictionary für die gefilterten Kategorien
+    fil_kategorie = {}
+
+    # Durchlaufe jedes Item in 'data'
+    for name, item in data.items():
+        # Überprüfe, ob der Suchbegriff im Namen oder in der Herkunft des Items vorkommt
+        if Suche in name.lower() or Suche in item['herkunft'].lower():
+            # Füge das Item zum neuen Dictionary hinzu, wenn die Bedingung erfüllt ist
+            fil_kategorie[name] = item
     return render_template('Kategorie.html', items=fil_kategorie, error=Error)
 
 
