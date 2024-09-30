@@ -1,173 +1,173 @@
 {
   "Diamantschwert": {
     "kategorie": "Schwert",
-    "schaden": 50,
+    "schaden": 30,
     "preis": 100,
-    "beschreibung": "Ein langes Schwert aus Stahl, ideal für den Nahkampf.",
-    "herkunft": "Mittelalterliches Europa",
+    "beschreibung": "Das Diamantschwert besteht aus 2 Diamanten und 1 nem Stock, trotz seiner wenigen ressourcen ist das Schwert sehr Stabil und verursacht viel Schaden an dem Gegnern.",
+    "herkunft": "Minecraft Universum",
     "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroQEKN4IKdCxRUx8TZUwdz3uaJO5ZQSgYhQ&s",
-    "bewertung": 4.5
+    "bewertung": 6.0
   },
-  "Das Dragonslayer": {
+  "Dragonslayer": {
     "kategorie": "Schwert",
-    "schaden": 50,
+    "schaden": 60,
     "preis": 100,
-    "beschreibung": "Ein langes Schwert aus Stahl, ideal für den Nahkampf.",
-    "herkunft": "Mittelalterliches Europa",
+    "beschreibung": "Dieses Schwert wurde vom Schmied Godot geschmiedet, seine auf gabe von seinem König bestand darin ein Schwert zu schmieden was es ermöglicht einen Drachen zu Töten. Zwar schmiedete er ein Großes Schwert aber leider unbenutzbar der König verjagte in so und lebt nun in seiner eigenen mine.",
+    "herkunft": "Berserk Universum",
     "bild": "https://ih1.redbubble.net/image.5125194478.5921/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
-    "bewertung": 4.8
+    "bewertung": 9.7
   },
   "Leviathan Axt": {
     "kategorie": "Axt",
     "schaden": 60,
     "preis": 120,
-    "beschreibung": "Eine schwere Kriegsaxt, perfekt für vernichtende Angriffe.",
-    "herkunft": "Wikingerzeit",
+    "beschreibung": "Die Leviathan Axt ist eine 2 Händige Kriegs Axt, sie wurde von Brok und Sindri für Laufey geschmiedet und sollte den Fehler den sie beim schmieden von Mjolnir gemacht haben rückgängig machen.",
+    "herkunft": "God of War und Fortnite Universum",
     "bild": "https://media.discordapp.net/attachments/1144599924810457138/1289688117879636039/icon.jpg?ex=66f9bb28&is=66f869a8&hm=8f53549f52b2a7ad26a2d1e34f4b426d69b476459eaca0cd847b9cb5351258b7&=&format=webp&width=262&height=325",
-    "bewertung": 4.7
+    "bewertung": 7.7
   },
-  "mjölnir": {
+  "Mjölnir": {
     "kategorie": "Hammer",
     "schaden": 70,
     "preis": 150,
-    "beschreibung": "Ein mächtiger Hammer für schwere Schläge.",
-    "herkunft": "Mittelalterliches Europa",
+    "beschreibung": "Ist ein Kriegshammer aus der Germanischen Mythologie, die von dem Gott Thor im Kampf gegen Feinde der Götter benutzt wurde.",
+    "herkunft": "Marvel Universum und Germanische Mythologie",
     "bild": "https://sw6.elbenwald.de/media/86/b2/ce/1652222132/E1071443_1.jpg",
-    "bewertung": 4.9
+    "bewertung": 5.7
   },
   "Form des scharlachroten Mondes": {
     "kategorie": "Speer",
     "schaden": 40,
     "preis": 90,
-    "beschreibung": "Ein leichter Speer, der für die Jagd verwendet wird.",
-    "herkunft": "Antikes Griechenland",
-    "bild": "https://gensh.honeyhunterworld.com/img/i_n13512_gacha_icon.webp?x41756",
-    "bewertung": 4.3
+    "beschreibung": "Eine scharfe Waffe von der grellen Farbe des scharlachroten Mondes. Es heißt, zur Zeit einer uralten Herrscherdynastie wurde sie als ein zeremonielles Instrument angesehen, das zwei Welten verband. Schon lange gibt es niemanden mehr, der sich an den Glauben und die Rituale jener Tage erinnert..",
+    "herkunft": "Genshin Impact Universum",
+    "bild": "https://gensh.honeyhunterworld.com/img/i_n13512.webp?x41756",
+    "bewertung": 6.9
   },
   "Inverted Spear Of Heaven": {
     "kategorie": "Speer",
-    "schaden": 40,
+    "schaden": 60,
     "preis": 90,
-    "beschreibung": "Ein leichter Speer, der für die Jagd verwendet wird.",
-    "herkunft": "Antikes Griechenland",
+    "beschreibung": "Ist der Kopf von einem Speer, ähnelt einem Jitte in dem Speer ist besondere Fluchenergie, was dazu führt das der effect Forced Cancellation ausgeführt wird, und bewirkt das alle Fluchtechniken sofort Neutraliziert werden.",
+    "herkunft": "Jujutsu Kaisen Universum",
     "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290057531837911091/Inverted_Spear_of_Heaven_29.png?ex=66fb1333&is=66f9c1b3&hm=89eaea3c885390e7cb9d108eee4e3f5b99155104034be24cf5d2a1c3fc138989&=&format=webp&quality=lossless&width=687&height=387",
-    "bewertung": 4.6
+    "bewertung": 8.7
   },
   "Hylia-Schild": {
     "kategorie": "Schild",
     "schaden": 0,
     "preis": 70,
-    "beschreibung": "Ein einfacher Rundschild aus Holz, leicht und effektiv.",
-    "herkunft": "Wikingerzeit",
+    "beschreibung": "Ist ein großes Eisenschild was selbst feuer standhält wird meist von Hylianischen Rittern getragen.",
+    "herkunft": "The Legend of Zelda Universum",
     "bild": "https://www.zeldapendium.de/w/images/7/7a/Hylia-Schild_BotW_Icon.png",
-    "bewertung": 4.4
+    "bewertung": 6.8
   },
   "Xenonbogen": {
     "kategorie": "Bogen",
-    "schaden": 40,
+    "schaden": 20,
     "preis": 80,
-    "beschreibung": "Ein langer Bogen mit hoher Reichweite.",
-    "herkunft": "England",
+    "beschreibung": "Feuert ein Pfeil der mit der zeit an höhe abnimmt, Schaden, Reichweite und Geschwindigkeit hängen von der ausfladezeit ab, außerdem schießen die Pfeile durch Wände.",
+    "herkunft": "Fortnite Universum",
     "bild": "https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fsave-the-world-s-newest-update-4-28-2020%2Ffortnite-xenion-bow-1920x1080-8805a8f0c88cac2b3a3cc0e7be7f2d140419ca09.jpg",
-    "bewertung": 4.5
+    "bewertung": 3.8
   },
   "3D-Manöver-Apparat": {
     "kategorie": "Utensilien",
-    "schaden": 50,
+    "schaden": 60,
     "preis": 100,
-    "beschreibung": "Eine leichte Armbrust für schnelle Angriffe.",
-    "herkunft": "Mittelalterliches Europa",
+    "beschreibung": "ist ein von Menschen entwickeltes Ausrüstungsset, das große Beweglichkeit im Kampf gegen die Titanen ermöglicht. Der Aufbau des Apparats ist symmetrisch..",
+    "herkunft": "Attack on Titan Universum",
     "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290056823969157242/3D-Man28Anime29.png?ex=66fb128a&is=66f9c10a&hm=c3e26f09c7699a325105fe4d2a3a518ef6ecc55be8e0b384d0fe36ae0952927a&=&format=webp&quality=lossless&width=687&height=387",
-    "bewertung": 4.7
+    "bewertung": 7.3
   },
   "Scouter": {
     "kategorie": "Utensilien",
-    "schaden": 50,
+    "schaden": 0,
     "preis": 100,
-    "beschreibung": "Eine leichte Armbrust für schnelle Angriffe.",
-    "herkunft": "Mittelalterliches Europa",
+    "beschreibung": "Ermöglicht es die Kampfkraft von einem Gegenüber zu lesen und aufzuspüren, dazu dient es auch als Kommunikationsgerät.",
+    "herkunft": "Dragonball Universum",
     "bild": "https://cdn.dribbble.com/users/5197/screenshots/3219920/media/d536d9ce5c09145cb18797f4e8b45a67.jpg?resize=800x600&vertical=center",
-    "bewertung": 4.6
+    "bewertung": 8.4
   },
   "Titanserum": {
     "kategorie": "Utensilien",
-    "schaden": 50,
+    "schaden": 1,
     "preis": 100,
-    "beschreibung": "Eine leichte Armbrust für schnelle Angriffe.",
-    "herkunft": "Mittelalterliches Europa",
+    "beschreibung": "Verwandelt einen in einen Titan ohne Selbstbewusst sein.",
+    "herkunft": "Attack on Titan Universum",
     "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290058293406076990/Titan_injection_29.png?ex=66fb13e9&is=66f9c269&hm=dc7fa8fccfac0e8c8d08250eb04212eddc42cd2cc3222e85884185ee30af4dc3&=&format=webp&quality=lossless&width=437&height=437",
-    "bewertung": 4.8
+    "bewertung": 2.7
   },
   "Berserker Armor": {
     "kategorie": "Rüstung",
-    "schaden": 0,
+    "schaden": 10,
     "preis": 200,
-    "beschreibung": "Eine robuste Kettenrüstung, die guten Schutz bietet.",
-    "herkunft": "Mittelalterliches Europa",
+    "beschreibung": "Eine sehr Starke Ganz körper rüstung was dafür sorgt das du den schmerz und angst vergisst und automatisch alle gebrochenen knochen oder starken verletzungen automatisch verstärkt werden, es sorgt dafür das du die grenzen deines körpers übersteigst.",
+    "herkunft": "Berserk Universum",
     "bild": "https://preview.redd.it/hello-guys-i-made-three-versions-of-my-berserker-armor-v0-xsfw67l04kpb1.jpg?width=640&crop=smart&auto=webp&s=724e5db77a1bd68cdbc0a91e20bfe3eaaf6181b7",
-    "bewertung": 4.9
+    "bewertung": 8.9
   },
   "Kamehameha": {
     "kategorie": "Spezialtechniken",
-    "schaden": 0,
+    "schaden": 80,
     "preis": 300,
     "beschreibung": "Ein starkes und schnelles Pferd, das im Kampf eingesetzt wird.",
-    "herkunft": "Mittelalterliches Europa",
+    "herkunft": "Dragonball Universum",
     "bild": "https://i.pinimg.com/736x/b9/24/98/b924985a04120373e03cd31a9f5e552b.jpg",
-    "bewertung": 4.6
+    "bewertung": 9.3
   },
   "Hollow Purple": {
     "kategorie": "Spezialtechniken",
-    "schaden": 0,
+    "schaden": 100,
     "preis": 300,
-    "beschreibung": "Ein starkes und schnelles Pferd, das im Kampf eingesetzt wird.",
-    "herkunft": "Mittelalterliches Europa",
+    "beschreibung": "Verbindet die Rote abstoßungs technik mit der Blauen anziehungs technik und erzeugt somit ein Purpur farbiges nichts.",
+    "herkunft": "Jujutsu Kaisen Universum",
     "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290058648877400160/Hollow_Purple_-_Item_-_Fortnite.png?ex=66fb143e&is=66f9c2be&hm=f715162ad41c3af45aeb785a9b0ad7dd2e8fb8e4076754002bbd1ab1fa049c97&=&format=webp&quality=lossless&width=640&height=640",
-    "bewertung": 4.7
+    "bewertung": 9.1
   },
   "Ultra Instinct": {
     "kategorie": "Spezialtechniken",
     "schaden": 0,
     "preis": 300,
-    "beschreibung": "Ein starkes und schnelles Pferd, das im Kampf eingesetzt wird.",
-    "herkunft": "Mittelalterliches Europa",
+    "beschreibung": "Ist eine Technik die dafür sorgt das dein Körper automatisch auf Angriffe reagiert.",
+    "herkunft": "Dragonball Universum",
     "bild": "https://i.redd.it/u1t2wg5qfth31.jpg",
-    "bewertung": 4.8
+    "bewertung": 8.7
   },
   "Heiliges Wasser": {
     "kategorie": "Trank",
     "schaden": 0,
     "preis": 50,
-    "beschreibung": "Ein Trank, der Wunden heilt und Gesundheit wiederherstellt.",
-    "herkunft": "Alchemistenlabor",
+    "beschreibung": "wird auf dem Karin-Turm bewacht von Meister Quitte es soll den trinker stärker machen.",
+    "herkunft": "Dragonball Universum",
     "bild": "https://media.discordapp.net/attachments/1144599924810457138/1289688283743256586/Sacred_water.png?ex=66f9bb50&is=66f869d0&hm=939ae42e7d6f34f3930d67a742539fe06338f42c52ca8958eedffe060abaf2f9&=&format=webp&quality=lossless&width=597&height=446",
-    "bewertung": 4.9
+    "bewertung": 1.0
   },
   "Nyoi Bō": {
     "kategorie": "Stab",
     "schaden": 60,
     "preis": 150,
-    "beschreibung": "Ein mächtiger Stab, der Feuerbälle abschießen kann.",
-    "herkunft": "Feuermagiergilde",
+    "beschreibung": "Der Stab wird nach wünschen des Besitzers Länger oder kürzer, seine aufgabe besteht eigentlich darin das der stab Karin-Turm mit dem Gottes Palast verbinden soll",
+    "herkunft": "Dragonball Universum",
     "bild": "https://media.discordapp.net/attachments/1144599924810457138/1289687446719565876/Nyoi_bo_Anime.png?ex=66f9ba88&is=66f86908&hm=348f966ffdf8c39ac9910267502139ef7b632706f540fa2d1b7d08e01b3fa3c6&=&format=webp&quality=lossless&width=800&height=450",
-    "bewertung": 4.8
+    "bewertung": 7.1
   },
   "Wonder of U": {
     "kategorie": "Stand",
-    "schaden": 0,
+    "schaden": 60,
     "preis": 80,
     "beschreibung": "Ein Ständer, der Platz für bis zu 10 Waffen bietet.",
-    "herkunft": "Schmiedewerkstatt",
+    "herkunft": "JoJo´s Bizarre Adventure",
     "bild": "https://i.redd.it/qdyxpvh6ba1d1.jpeg",
-    "bewertung": 4.2
+    "bewertung": 2.9
   },
   "Star Platinum": {
     "kategorie": "Stand",
-    "schaden": 0,
+    "schaden": 80,
     "preis": 80,
-    "beschreibung": "Ein Ständer, der Platz für bis zu 10 Waffen bietet.",
-    "herkunft": "Schmiedewerkstatt",
+    "beschreibung": "Ist ein Nahkampf Stand, hat extreme kraft, schnelligkeit und präzision",
+    "herkunft": "JoJo´s Bizarre Adventure",
     "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290048709035561023/StarPlatinum_AnimeAV.png?ex=66fb0afc&is=66f9b97c&hm=3c0d5c1ad7821ea22efd6ca7523ee9a1967922bc6af44b750d3fc8f2d3e30bd6&=&format=webp&quality=lossless&width=532&height=676",
-    "bewertung": 4.4
+    "bewertung": 9.2
   }
 }

@@ -14,7 +14,7 @@
 <div class="container">
     <div class="row">
         {% for item_name, item in items.items() %}
-            <div class="col-md-4 col-sm-6 mb-4 waffen"> <!-- 3 Karten pro Reihe auf größeren Bildschirmen -->
+            <div class="col-md-3 col-sm-6 mb-4 waffen"> <!-- 3 Karten pro Reihe auf größeren Bildschirmen -->
                 <div class="card h-100"> <!-- Klasse h-100 sorgt dafür, dass alle Karten gleich hoch sind -->
                     <div class="card-body">
                         <ul class="list-group">
@@ -26,8 +26,9 @@
                             <li class="list-group-item item">Preis: {{ item.preis }}</li>
                             <li class="list-group-item item">Herkunft: {{ item.herkunft }}</li>
                             <li class="list-group-item item">Schaden: {{ item.schaden }}</li>
-                            <li class="list-group-item item">Beschreibung: {{ item.beschreibung }}</li>
+                            <li class="list-group-item item x">Beschreibung: {{ item.beschreibung }}</li>
                             <li class="list-group-item item">Bewertung: {{ item.bewertung }}</li>
+                            <li class="list-group-item item"><a href="/Skybase/Prime" class="btn btn-success">In den <i class="bi bi-cart-fill"></i> Warenkorb</a></li>
                         </ul>
                     </div>
                 </div>

@@ -171,6 +171,20 @@ body {
         margin-left: 150px;
     }
 
+    .oi1l {
+        width: 400px;
+        height: 600px;
+        background-color: #222222;
+        color: white;
+        padding: 10px;
+        border: 4px solid darkred;
+        word-wrap: break-word;
+        overflow-y: auto;
+        text-align: center;
+        float: left;
+        margin-left: 75px;
+    }
+
     .oi1 {
         width: 400px;
         height: 600px;
@@ -235,6 +249,8 @@ body {
         border: 4px groove lightblue;
         padding: 10px;
         color: white;
+        margin-left: 50px;
+        margin-bottom: 50px;
     }
 
 
@@ -259,5 +275,12 @@ body {
             max-width: 100%; /* Bild responsive machen */
             height: auto; /* Bildproportionen beibehalten */
         }
+
+    .x {
+        word-wrap: break-word;
+        max-height: 75px;
+        overflow-y: scroll;
+    }
+
 
 }
