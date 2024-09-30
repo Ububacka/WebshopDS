@@ -287,6 +287,13 @@ body {
         overflow-y: scroll;
     }
 
+    .x4 {
+        word-wrap: break-word;
+        max-height: 55px;
+        overflow-y: scroll;
+    }
+
+
     .carh1 {
         text-align: center;
         width: 600px;
@@ -296,7 +303,8 @@ body {
         word-wrap: break-word;
         margin-left: 200px;
     }
-    
+
+
 
 
 }

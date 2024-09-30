@@ -17,6 +17,42 @@
     "bild": "https://ih1.redbubble.net/image.5125194478.5921/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
     "bewertung": 9.7
   },
+  "Durendal": {
+    "kategorie": "Schwert",
+    "schaden": 70,
+    "preis": 150,
+    "beschreibung": "ist ein Schwert was mit aus dem Experiment Excalibur entstanden ist.",
+    "herkunft": "Highschool DxD Universum",
+    "bild": "https://e7.pngegg.com/pngimages/382/9/png-clipart-durendal-high-school-dxd-sword-excalibur-sword-television-weapon.png",
+    "bewertung": 5.0
+  },
+  "Trunks Schwert": {
+    "kategorie": "Schwert",
+    "schaden": 40,
+    "preis": 60,
+    "beschreibung": "Dieses Schwert wurde von einem kämpfer aus der zukunft getragen",
+    "herkunft": "Dragonball Universum",
+    "bild": "https://media.fortniteapi.io/images/c564cffe921b6debad65d31779d1eaca/transparent.png",
+    "bewertung": 6.7
+  },
+  "Luxurious Sea-Lord": {
+    "kategorie": "Schwert",
+    "schaden": 10,
+    "preis": 50,
+    "beschreibung": "ist ein riesiger fisch der sehr viel Wiegt, wurde mit einem Kran geangelt",
+    "herkunft": "Genshin impact Universum",
+    "bild": "https://gensh.honeyhunterworld.com/img/i_n12412.webp?x41756",
+    "bewertung": 2.3
+  },
+  "Dimension Sword": {
+    "kategorie": "Schwert",
+    "schaden": 60,
+    "preis": 40,
+    "beschreibung": "Dieses Schwert kann durch dimensionen schneiden.",
+    "herkunft": "Dragonball Universum",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290153973604679812/Dimensionswordrender.png?ex=66fb6d05&is=66fa1b85&hm=990acf6b37d543a8c6377df3d5e3a7ef607bb8b7d06ceb968688414424b0b4d8&=&format=webp&quality=lossless&width=397&height=640 ",
+    "bewertung": 5.9
+  },
   "Leviathan Axt": {
     "kategorie": "Axt",
     "schaden": 60,
@@ -26,14 +62,95 @@
     "bild": "https://media.discordapp.net/attachments/1144599924810457138/1289688117879636039/icon.jpg?ex=66f9bb28&is=66f869a8&hm=8f53549f52b2a7ad26a2d1e34f4b426d69b476459eaca0cd847b9cb5351258b7&=&format=webp&width=262&height=325",
     "bewertung": 7.7
   },
+  "Loaded Axe": {
+    "kategorie": "Axt",
+    "schaden": 20,
+    "preis": 20,
+    "beschreibung": "ist eine arm prothese mit einer axt versehen diese wurde früher von einem besonderem Ronin sehr oft benutzt.",
+    "herkunft": "Sekiro Universum",
+    "bild": "https://sekiroshadowsdietwice.wiki.fextralife.com/file/Sekiro-Shadows-Die-Twice/loaded_axe-upgrade-material-sekiro-wiki-guide.png",
+    "bewertung": 2.3
+  },
+  "Heavy Axe": {
+    "kategorie": "Axt",
+    "schaden": 40,
+    "preis": 30,
+    "beschreibung": "Ist eine große schwere axt die von dämon aus einer alten civiliation benutzt wurde.",
+    "herkunft": "Code Vein Universum",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290156824984817795/Heavy_Axe.png?ex=66fb6fad&is=66fa1e2d&hm=2964a089b1dfdde03913556f507773a372f1f4a1494ffdd0a6202b32031bb769&=&format=webp&quality=lossless&width=450&height=450",
+    "bewertung": 6.3
+  },
+  "Fäulnisgroßaxt": {
+    "kategorie": "Axt",
+    "schaden": 20,
+    "preis": 60,
+    "beschreibung": "Diese axt vergiftet den gegner, manche sagen das dies sogar kein gift sei sondern eher eine art schimmel die dich verfault.",
+    "herkunft": "Elden Ring Universum",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290158039072243783/Faulnisgroaxt.png?ex=66fb70ce&is=66fa1f4e&hm=a048d93fc8257b397be280b1a4d6a92b015563b64a377e1f5b4688b23a16905b&=&format=webp&quality=lossless&width=676&height=676",
+    "bewertung": 3.5
+  },
+  "Rosus Axt": {
+    "kategorie": "Axt",
+    "schaden": 30,
+    "preis": 30,
+    "beschreibung": "Die eine kleine kriegsaxt sieht auf dem ersten Blick recht herkommlichaus, doch mit dieser axt hat ein großer krieger gekämpft.",
+    "herkunft": "Elden Ring Universum",
+    "bild": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rosus_axe_weapon_elden_ring_wiki_guide_200px.png",
+    "bewertung": 7.2
+  },
+  "Defender Switch Axe IV": {
+    "kategorie": "Axt",
+    "schaden": 10,
+    "preis": 50,
+    "beschreibung": "ist halbaxt und halbhammer trotz ihres nicht großem aussehens hat diese axt einiges auf den kasten.",
+    "herkunft": "Monster Hunter Universum",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290158708357337231/MHW-Switch_Axe_Render_034.png?ex=66fb716e&is=66fa1fee&hm=e9bb7928a118664171aad3890c34e9a412002b061519fbeaeca0854e84d03849&=&format=webp&quality=lossless&width=640&height=640",
+    "bewertung": 6.2
+  },
   "Mjölnir": {
     "kategorie": "Hammer",
     "schaden": 70,
     "preis": 150,
     "beschreibung": "Ist ein Kriegshammer aus der Germanischen Mythologie, die von dem Gott Thor im Kampf gegen Feinde der Götter benutzt wurde.",
-    "herkunft": "Marvel Universum und Germanische Mythologie",
+    "herkunft": "Germanische Mythologie",
     "bild": "https://sw6.elbenwald.de/media/86/b2/ce/1652222132/E1071443_1.jpg",
     "bewertung": 5.7
+  },
+  "Reinhardt Hammer": {
+    "kategorie": "Hammer",
+    "schaden": 40,
+    "preis": 100,
+    "beschreibung": "Ist ein hammer mit raketenantrieb der richtig hohe geschwindigkeiten an nehmen kann.",
+    "herkunft": "Overwatch Mythologie",
+    "bild": "https://p.turbosquid.com/ts-thumb/wq/cHtgTs/w2/reainhardthammerperspective/jpg/1630931876/600x600/fit_q87/5457c2c6fe6500faf3230af61cd4b37841ad4a61/reainhardthammerperspective.jpg",
+    "bewertung": 1.4
+  },
+  "Sledgesaw": {
+    "kategorie": "Hammer",
+    "schaden": 30,
+    "preis": 20,
+    "beschreibung": "Ist halb kettensäge halb hammer sehr beliebt unter Überlebenden aus der Apokalypse.",
+    "herkunft": "Dead Rising Mythologie",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290167337001156679/Sledgesaw.png?ex=66fb7977&is=66fa27f7&hm=9e13d6b3a8f3201850a7e14a8f82dc600e09af91bb40466aeff546747502da34&=&format=webp&quality=lossless&width=643&height=437",
+    "bewertung": 2.4
+  },
+  "Nobaras Hammer": {
+    "kategorie": "Hammer",
+    "schaden": 60,
+    "preis": 150,
+    "beschreibung": "mit diesem hammer kann man nägel voll mit fluchkraft verschießen.",
+    "herkunft": "Jujutsu Kaisen Mythologie",
+    "bild": "https://fbi.cults3d.com/uploaders/23489712/illustration-file/2085648c-0f9c-4a33-aea2-40ea3a8250b1/3.png",
+    "bewertung": 4.3
+  },
+  "Ringed Finger": {
+    "kategorie": "Hammer",
+    "schaden": 40,
+    "preis": 80,
+    "beschreibung": "Dieser hammer kann schnipsen viele Menschen sagen das wenn du mit diesem hammer getroffen wirst das du über mehrere kilometer weg fliegen würdest.",
+    "herkunft": "Elden Ring Mythologie",
+    "bild": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ringed_finger_hammer_weapon_elden_ring_wiki_guide_200px.png",
+    "bewertung": 6.2
   },
   "Form des scharlachroten Mondes": {
     "kategorie": "Speer",
@@ -53,6 +170,15 @@
     "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290057531837911091/Inverted_Spear_of_Heaven_29.png?ex=66fb1333&is=66f9c1b3&hm=89eaea3c885390e7cb9d108eee4e3f5b99155104034be24cf5d2a1c3fc138989&=&format=webp&quality=lossless&width=687&height=387",
     "bewertung": 8.7
   },
+  "Donnerspeere": {
+    "kategorie": "Speer",
+    "schaden": 80,
+    "preis": 40,
+    "beschreibung": "Hat einen Sprengkörper vorne und man verschießt diese speere auf den Gegner.",
+    "herkunft": "Attack on Titan Universum",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290174889558540310/Donnerspeere_Benutzt.png?ex=66fb807f&is=66fa2eff&hm=5a4bfcdc5a5dda744c37299858aece03f8787fa5101cbb00e9f4c53c3782bddb&=&format=webp&quality=lossless&width=875&height=627",
+    "bewertung": 3.5
+  },
   "Hylia-Schild": {
     "kategorie": "Schild",
     "schaden": 0,
@@ -71,6 +197,15 @@
     "bild": "https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fsave-the-world-s-newest-update-4-28-2020%2Ffortnite-xenion-bow-1920x1080-8805a8f0c88cac2b3a3cc0e7be7f2d140419ca09.jpg",
     "bewertung": 3.8
   },
+  "Pfeil und Bogen": {
+    "kategorie": "Bogen",
+    "schaden": 10,
+    "preis": 120,
+    "beschreibung": "Wenn man vom pfeil getroffen wird kriegt man seinen eigenen Stand.",
+    "herkunft": "JoJo´s Bizarre Adventure Universum",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290177110131871775/Bow26ArrowAV.png?ex=66fb8291&is=66fa3111&hm=0ffd86e08356acce711159d4e1f2bf867b195d286fbe5b9b535704988d9bd8b1&=&format=webp&quality=lossless&width=378&height=676",
+    "bewertung": 6.4
+  },
   "3D-Manöver-Apparat": {
     "kategorie": "Utensilien",
     "schaden": 60,
@@ -83,7 +218,7 @@
   "Scouter": {
     "kategorie": "Utensilien",
     "schaden": 0,
-    "preis": 100,
+    "preis": 50,
     "beschreibung": "Ermöglicht es die Kampfkraft von einem Gegenüber zu lesen und aufzuspüren, dazu dient es auch als Kommunikationsgerät.",
     "herkunft": "Dragonball Universum",
     "bild": "https://cdn.dribbble.com/users/5197/screenshots/3219920/media/d536d9ce5c09145cb18797f4e8b45a67.jpg?resize=800x600&vertical=center",
@@ -92,10 +227,37 @@
   "Titanserum": {
     "kategorie": "Utensilien",
     "schaden": 1,
-    "preis": 100,
+    "preis": 30,
     "beschreibung": "Verwandelt einen in einen Titan ohne Selbstbewusst sein.",
     "herkunft": "Attack on Titan Universum",
     "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290058293406076990/Titan_injection_29.png?ex=66fb13e9&is=66f9c269&hm=dc7fa8fccfac0e8c8d08250eb04212eddc42cd2cc3222e85884185ee30af4dc3&=&format=webp&quality=lossless&width=437&height=437",
+    "bewertung": 2.7
+  },
+  "Granate": {
+    "kategorie": "Utensilien",
+    "schaden": 15,
+    "preis": 10,
+    "beschreibung": "Ist mit kleinen sprengstoff versehen.",
+    "herkunft": "Fortnite Universum",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290178319807025162/Grenade_v11.00_-_Item_-_Fortnite.png?ex=66fb83b1&is=66fa3231&hm=b555715a51cd71c86de342a504ccb60483e60b53518423161479560280e090c2&=&format=webp&quality=lossless&width=640&height=640",
+    "bewertung": 3.0
+  },
+  "Behelit": {
+    "kategorie": "Utensilien",
+    "schaden": 0,
+    "preis": 200,
+    "beschreibung": "Der Behelit aktiviert sich wenn man am tiefsten Punkt seines Lebens ist, und erfüllt dir deinen allersenslichsten Traum.",
+    "herkunft": "Berserk Universum",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290178725098291282/E0D-Beherit-Manga.png?ex=66fb8412&is=66fa3292&hm=96cf077939865885a3202bdb8b440c703906eb20bd49a56f81b206a4b7f777f6&=&format=webp&quality=lossless&width=625&height=443",
+    "bewertung": 6.7
+  },
+  "Pokeball": {
+    "kategorie": "Utensilien",
+    "schaden": 0,
+    "preis": 40,
+    "beschreibung": "Mit dem ball kann man jedes tier fangen.",
+    "herkunft": "Pokemon Universum",
+    "bild": "https://i.etsystatic.com/33357979/r/il/e1dfcd/3584257734/il_570xN.3584257734_bfy9.jpg",
     "bewertung": 2.7
   },
   "Berserker Armor": {
@@ -107,11 +269,29 @@
     "bild": "https://preview.redd.it/hello-guys-i-made-three-versions-of-my-berserker-armor-v0-xsfw67l04kpb1.jpg?width=640&crop=smart&auto=webp&s=724e5db77a1bd68cdbc0a91e20bfe3eaaf6181b7",
     "bewertung": 8.9
   },
+  "Raidens Cyborg Körper": {
+    "kategorie": "Rüstung",
+    "schaden": 0,
+    "preis": 150,
+    "beschreibung": "Gibt dir Cyborg kräfte die dir nicht nur stärke oder geschwindigkeit geben sondern auf schnellere reflexe und eine bessere sicht.",
+    "herkunft": "Metal Gear Universum",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290184755819708447/Black_Raiden_MGRR.png?ex=66fb89b0&is=66fa3830&hm=ce9d633bf4d05260083ce298d55d9a9c36696b776d4bf33e4f6490b52d0a4c57&=&format=webp&quality=lossless&width=325&height=437",
+    "bewertung": 1.4
+  },
+  "Battle Armor": {
+    "kategorie": "Rüstung",
+    "schaden": 0,
+    "preis": 100,
+    "beschreibung": "Ist stabile und flexible rüstung wird meistens von den soldaten von der Freezer Armee getragen.",
+    "herkunft": "Dragonball Universum",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290185099672948776/Krillin_Armor.png?ex=66fb8a02&is=66fa3882&hm=eea2ae23896c9e1f3b72d942ef12671f3ac79b75e3f1ecd307ca640de88bcfb0&=&format=webp&quality=lossless&width=582&height=437",
+    "bewertung": 3.9
+  },
   "Kamehameha": {
     "kategorie": "Spezialtechniken",
     "schaden": 80,
     "preis": 300,
-    "beschreibung": "Ein starkes und schnelles Pferd, das im Kampf eingesetzt wird.",
+    "beschreibung": "Verschießt eine Ki strahl der je nach stärke und aufladzeit stärker wird, wurde vom Herr der Schildkröten erschaffen",
     "herkunft": "Dragonball Universum",
     "bild": "https://i.pinimg.com/736x/b9/24/98/b924985a04120373e03cd31a9f5e552b.jpg",
     "bewertung": 9.3
@@ -128,11 +308,38 @@
   "Ultra Instinct": {
     "kategorie": "Spezialtechniken",
     "schaden": 0,
-    "preis": 300,
+    "preis": 400,
     "beschreibung": "Ist eine Technik die dafür sorgt das dein Körper automatisch auf Angriffe reagiert.",
     "herkunft": "Dragonball Universum",
     "bild": "https://i.redd.it/u1t2wg5qfth31.jpg",
     "bewertung": 8.7
+  },
+  "Harmon": {
+    "kategorie": "Spezialtechniken",
+    "schaden": 0,
+    "preis": 100,
+    "beschreibung": "Ist eine atemtechnik das dir viele vorteile bringt",
+    "herkunft": "JoJo´s Bizarre Adventure Universum",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290179530664841217/main-qimg-64ef8b9e4fec8eae7090b30336952137-lq.png?ex=66fb84d2&is=66fa3352&hm=72862d63da06c711aba65f3a40dbf1a4d92077af87d4ac283ad3d2586db32ee6&=&format=webp&quality=lossless&width=636&height=640",
+    "bewertung": 1.3
+  },
+  "Reversed Cursed Technik": {
+    "kategorie": "Spezialtechniken",
+    "schaden": 0,
+    "preis": 200,
+    "beschreibung": "Wenn man es anwendet kann man wunden und verlorene körperteile wieder nachwachsen lassen",
+    "herkunft": "Jujutsu Kaisen Universum",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290180407995666432/Yuta_healing_his_friends.png?ex=66fb85a3&is=66fa3423&hm=9208a499fac86fe4315207d0bfb4407774034e6877fa3a8fa3c3fb8d72067172&=&format=webp&quality=lossless&width=1012&height=465",
+    "bewertung": 4.5
+  },
+  "Rasengan": {
+    "kategorie": "Spezialtechniken",
+    "schaden": 70,
+    "preis": 200,
+    "beschreibung": "Verschießt eine menge Energie die je nach körperlicher stärke und aufladzeit stärker werden kann",
+    "herkunft": "Naruto Universum",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290181998010171442/Rasengan.png?ex=66fb871e&is=66fa359e&hm=1f38692245e8d78098b3ca69c2baceb5ec7d0167cb8dfeb89a75b48db848f5b9&=&format=webp&quality=lossless&width=582&height=437",
+    "bewertung": 3.1
   },
   "Heiliges Wasser": {
     "kategorie": "Trank",
@@ -142,6 +349,33 @@
     "herkunft": "Dragonball Universum",
     "bild": "https://media.discordapp.net/attachments/1144599924810457138/1289688283743256586/Sacred_water.png?ex=66f9bb50&is=66f869d0&hm=939ae42e7d6f34f3930d67a742539fe06338f42c52ca8958eedffe060abaf2f9&=&format=webp&quality=lossless&width=597&height=446",
     "bewertung": 1.0
+  },
+  "Estus Flask": {
+    "kategorie": "Trank",
+    "schaden": 0,
+    "preis": 30,
+    "beschreibung": "Heilt die Gesundheit ein wenig diese kann man aber je doch nur begrenzt bei sich tragen.",
+    "herkunft": "Dark Souls Universum",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290186208420429884/Estus_Flask_29_-_01.png?ex=66fb8b0a&is=66fa398a&hm=f88eb5442c867ee7178e17a21d2bb82c1c0f884d1790c2590a283e3fcc74dcd6&=&format=webp&quality=lossless&width=437&height=437",
+    "bewertung": 5.2
+  },
+  "Mini Schildtrank": {
+    "kategorie": "Trank",
+    "schaden": 0,
+    "preis": 10,
+    "beschreibung": "gibt dir 25% Schild diese kann man aber leider nur 2 mal trinken, also bis 50%.",
+    "herkunft": "Fortnite Universum",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290186584850829322/Small_Shield_Potion_v11.00_-_Item_-_Fortnite.png?ex=66fb8b64&is=66fa39e4&hm=936cba7d49ac407befc07d04a87ee4f2cfe723175d6b8ac7ace1fc5d34372902&=&format=webp&quality=lossless&width=640&height=640",
+    "bewertung": 3.3
+  },
+  "Phönix Tränen": {
+    "kategorie": "Trank",
+    "schaden": 0,
+    "preis": 100,
+    "beschreibung": "Die Tränen eines der 3 Großen Dämon Familien, dieese Heilt alle Verletzungen aber leider nicht die psychische.",
+    "herkunft": "Highschool DxD Universum",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290187835449544765/Phoenix_tear.JPG.png?ex=66fb8c8e&is=66fa3b0e&hm=908b2f1957e0bf389b3ab395c527027c046f0154c22459f4cec1250561cf889e&=&format=webp&quality=lossless&width=300&height=523",
+    "bewertung": 5.6
   },
   "Nyoi Bō": {
     "kategorie": "Stab",
@@ -155,19 +389,55 @@
   "Wonder of U": {
     "kategorie": "Stand",
     "schaden": 60,
-    "preis": 80,
+    "preis": 150,
     "beschreibung": "Ein Stand der als der mächstigeste von allen gilt, er verdreht das Schicksal so damit es seinen Nutzer zu gunsten kommt egal ob es simple Kämpfe oder komplette Multiversenmanipulation ist. ",
-    "herkunft": "Schmiedewerkstatt",
+    "herkunft": "JoJo´s Bizarre Adventure",
     "bild": "https://i.redd.it/qdyxpvh6ba1d1.jpeg",
     "bewertung": 2.9
   },
   "Star Platinum": {
     "kategorie": "Stand",
     "schaden": 80,
-    "preis": 80,
+    "preis": 100,
     "beschreibung": "Ist ein Nahkampf Stand, hat extreme kraft, schnelligkeit und präzision",
     "herkunft": "JoJo´s Bizarre Adventure",
     "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290048709035561023/StarPlatinum_AnimeAV.png?ex=66fb0afc&is=66f9b97c&hm=3c0d5c1ad7821ea22efd6ca7523ee9a1967922bc6af44b750d3fc8f2d3e30bd6&=&format=webp&quality=lossless&width=532&height=676",
     "bewertung": 9.2
+  },
+  "Magicians Red": {
+    "kategorie": "Stand",
+    "schaden": 70,
+    "preis": 80,
+    "beschreibung": "Dieser stand kann das feuer manipulieren.",
+    "herkunft": "JoJo´s Bizarre Adventure",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290182301057024071/Magicians_Red_AnimeAV.png?ex=66fb8767&is=66fa35e7&hm=44f6b4b18e93c9f8f2062f97a6087468539efdcac69945794bc6c28e8c59f24c&=&format=webp&quality=lossless&width=298&height=437",
+    "bewertung": 7.3
+  },
+  "Killer Queen": {
+    "kategorie": "Stand",
+    "schaden": 50,
+    "preis": 90,
+    "beschreibung": "Ist ein Nahkampf Stand, und kann aus allem eine Bombe machen",
+    "herkunft": "JoJo´s Bizarre Adventure",
+    "bild": "https://static.jojowiki.com/images/1/14/latest/20221020232023/Killer_Queen_Infobox_Anime.png",
+    "bewertung": 3.8
+  },
+  "Silver Chariot": {
+    "kategorie": "Stand",
+    "schaden": 40,
+    "preis": 30,
+    "beschreibung": "Ist ein Schwertkämpfer stand, ist sehr schnell und kann seine rüstung ablegen um noch schneller zu werden",
+    "herkunft": "JoJo´s Bizarre Adventure",
+    "bild": "https://static.jojowiki.com/images/0/09/latest/20221019190021/Silver_Chariot_SC_Infobox_Anime.png",
+    "bewertung": 7.3
+  },
+  "Crazy Diamond": {
+    "kategorie": "Stand",
+    "schaden": 90,
+    "preis": 70,
+    "beschreibung": "Ist ein Nahkampf Stand, Kann alles was sich verändert hat zurück verändern",
+    "herkunft": "JoJo´s Bizarre Adventure",
+    "bild": "https://media.discordapp.net/attachments/1144599924810457138/1290183222549811260/Crazy_Diamond_Anime.png?ex=66fb8842&is=66fa36c2&hm=07e9ea6d9551739e7e859a5c6c32e321882284029ac2182a91ff605451e78c64&=&format=webp&quality=lossless&width=548&height=676",
+    "bewertung": 7.6
   }
 }
