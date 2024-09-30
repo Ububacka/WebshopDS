@@ -35,10 +35,14 @@ def Kato(Kategorie):
 
 
 
-@app.route('/search', methods=['GET'])
+@app.route('/Suche', methods=['GET'])
 def Suche():
     Error = None
     Suche = request.args.get('Suche').lower()
+
+    # filtern der daten nach dem suchbegriff
+    # Erstellt ein neues Dictionary 'fil_kategorie', das nur die items enthält
+    # bei denen der suchbegriff im Namen oder in der Herkunft vorhanden ist.
     fil_kategorie = {name: item for name, item in data.items() if Suche in name.lower() or Suche in item['herkunft'].lower()}
     return render_template('Kategorie.html', items=fil_kategorie, error=Error)
 
